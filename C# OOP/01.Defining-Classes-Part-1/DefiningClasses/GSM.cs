@@ -15,12 +15,12 @@ namespace DefiningClasses
         //    get { return iPhone4S; }
         //}
 
-        private static GSM iPhone4s = new GSM("Apple", "4S", 500, "Pesho")
+        private static GSM iPhone4s = new GSM("Apple", "4S", 500, "Pesho");
 
 
         private string manufacturer;
         private string model;
-        private int price;
+        private int? price;
         private string owner;
         private Battery battery;
         private Display display;
@@ -30,10 +30,10 @@ namespace DefiningClasses
             Manufacturer = manufacturer;
             Model = model;
             Owner = owner;
-            Price = (int)price;
+            Price = price;
         }
 
-        public int Price
+        public int? Price
         {
             get
             {
@@ -42,10 +42,6 @@ namespace DefiningClasses
 
             set
             {
-                if (price <= 0)
-                {
-                    throw new ArgumentOutOfRangeException("The price cannot be less or equal to 0.");
-                }
                 this.price = value;
             }
         }
@@ -100,15 +96,6 @@ namespace DefiningClasses
             }
             set
             {
-                if (string.IsNullOrEmpty(value))
-                {
-                    throw new ArgumentNullException("The owner's name cannot be null or empty");
-                }
-                if (value.Length < 2)
-                {
-                    throw new ArgumentOutOfRangeException("The owner's name cannot be shorter than 2 symbols");
-                }
-
                 this.owner = value;
             }
         }

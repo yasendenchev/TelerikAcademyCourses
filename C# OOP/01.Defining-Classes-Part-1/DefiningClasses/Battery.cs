@@ -27,15 +27,7 @@ namespace DefiningClasses
 
             set
             {
-                if (string.IsNullOrEmpty(value))
-                {
-                    throw new ArgumentNullException("Battery model should not be empty or null!");
-                }
-
-                if (model.Length < 2)
-                {
-                    throw new ArgumentOutOfRangeException("Battery model should be longer than 2 symbols!");
-                }
+               
 
                 this.model = value;
             }

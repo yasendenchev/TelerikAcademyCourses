@@ -6,14 +6,9 @@ namespace DefiningClasses
     {
         public static void Main()
         {
-            GSM[] phones = new GSM[3];
-
-            Console.WriteLine(GSM.iPhone4S);
-
-            //for (int i = 0; i < 3; i++)
-            //{
-            //    phones[i] = new GSM("LG", "V20", 3000, "Tosho" );
-            //}
+            GSM Galaxy = new GSM("Samsung", "Galaxy S5");
+            Console.WriteLine(Galaxy.Owner);
+          
         }
     }
 }
