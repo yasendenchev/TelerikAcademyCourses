@@ -1,0 +1,5 @@
+D:\Dropbox\Telerik\C# OOP\01.Defining-Classes-Part-1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Dropbox\Telerik\C# OOP\01.Defining-Classes-Part-1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Dropbox\Telerik\C# OOP\01.Defining-Classes-Part-1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Dropbox\Telerik\C# OOP\01.Defining-Classes-Part-1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Dropbox\Telerik\C# OOP\01.Defining-Classes-Part-1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
