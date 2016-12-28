@@ -1,0 +1,11 @@
+D:\Dropbox\Telerik\C# II\05.Strings\08.ParseURL\bin\Debug\08.ParseURL.exe.config
+D:\Dropbox\Telerik\C# II\05.Strings\08.ParseURL\bin\Debug\08.ParseURL.exe
+D:\Dropbox\Telerik\C# II\05.Strings\08.ParseURL\bin\Debug\08.ParseURL.pdb
+D:\Dropbox\Telerik\C# II\05.Strings\08.ParseURL\obj\Debug\08.ParseURL.exe
+D:\Dropbox\Telerik\C# II\05.Strings\08.ParseURL\obj\Debug\08.ParseURL.pdb
+D:\Dropbox\Telerik\C# II\06.Strings\08.ParseURL\bin\Debug\08.ParseURL.exe.config
+D:\Dropbox\Telerik\C# II\06.Strings\08.ParseURL\obj\Debug\08.ParseURL.exe
+D:\Dropbox\Telerik\C# II\06.Strings\08.ParseURL\obj\Debug\08.ParseURL.pdb
+D:\Dropbox\Telerik\C# II\06.Strings\08.ParseURL\obj\Debug\08.ParseURL.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# II\06.Strings\08.ParseURL\bin\Debug\08.ParseURL.exe
+D:\Dropbox\Telerik\C# II\06.Strings\08.ParseURL\bin\Debug\08.ParseURL.pdb

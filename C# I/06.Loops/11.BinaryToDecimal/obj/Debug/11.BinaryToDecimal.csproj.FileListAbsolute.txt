@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# I\06.Loops\11.BinaryToDecimal\bin\Debug\11.BinaryToDecimal.exe.config
+D:\Dropbox\Telerik\C# I\06.Loops\11.BinaryToDecimal\obj\Debug\11.BinaryToDecimal.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# I\06.Loops\11.BinaryToDecimal\bin\Debug\11.BinaryToDecimal.exe
+D:\Dropbox\Telerik\C# I\06.Loops\11.BinaryToDecimal\bin\Debug\11.BinaryToDecimal.pdb
+D:\Dropbox\Telerik\C# I\06.Loops\11.BinaryToDecimal\obj\Debug\11.BinaryToDecimal.exe
+D:\Dropbox\Telerik\C# I\06.Loops\11.BinaryToDecimal\obj\Debug\11.BinaryToDecimal.pdb

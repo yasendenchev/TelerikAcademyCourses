@@ -1,0 +1,7 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\15.BitSwap\bin\Debug\15.BitSwap.exe.config
+D:\Dropbox\Telerik\C# I\03.Operators-And-Expressions\15.BitSwap\bin\Debug\15.BitSwap.exe.config
+D:\Dropbox\Telerik\C# I\03.Operators-And-Expressions\15.BitSwap\bin\Debug\15.BitSwap.exe
+D:\Dropbox\Telerik\C# I\03.Operators-And-Expressions\15.BitSwap\bin\Debug\15.BitSwap.pdb
+D:\Dropbox\Telerik\C# I\03.Operators-And-Expressions\15.BitSwap\obj\Debug\15.BitSwap.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# I\03.Operators-And-Expressions\15.BitSwap\obj\Debug\15.BitSwap.exe
+D:\Dropbox\Telerik\C# I\03.Operators-And-Expressions\15.BitSwap\obj\Debug\15.BitSwap.pdb

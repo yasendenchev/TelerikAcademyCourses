@@ -1,0 +1,2 @@
+D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\13.MergeSort\bin\Debug\13.MergeSort.exe.config
+D:\Dropbox\Telerik\C# I\07.Arrays\13.MergeSort\bin\Debug\13.MergeSort.exe.config

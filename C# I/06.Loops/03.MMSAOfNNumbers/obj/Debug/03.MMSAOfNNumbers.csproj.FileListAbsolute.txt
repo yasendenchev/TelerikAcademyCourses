@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# I\06.Loops\03.MMSAOfNNumbers\bin\Debug\03.MMSAOfNNumbers.exe.config
+D:\Dropbox\Telerik\C# I\06.Loops\03.MMSAOfNNumbers\bin\Debug\03.MMSAOfNNumbers.exe
+D:\Dropbox\Telerik\C# I\06.Loops\03.MMSAOfNNumbers\bin\Debug\03.MMSAOfNNumbers.pdb
+D:\Dropbox\Telerik\C# I\06.Loops\03.MMSAOfNNumbers\obj\Debug\03.MMSAOfNNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# I\06.Loops\03.MMSAOfNNumbers\obj\Debug\03.MMSAOfNNumbers.exe
+D:\Dropbox\Telerik\C# I\06.Loops\03.MMSAOfNNumbers\obj\Debug\03.MMSAOfNNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe
+D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
+D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.pdb

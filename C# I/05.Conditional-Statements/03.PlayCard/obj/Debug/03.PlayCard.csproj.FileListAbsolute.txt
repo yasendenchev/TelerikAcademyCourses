@@ -1,0 +1,5 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\03.PlayCard\bin\Debug\03.PlayCard.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\03.PlayCard\bin\Debug\03.PlayCard.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\03.PlayCard\bin\Debug\03.PlayCard.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\03.PlayCard\obj\Debug\03.PlayCard.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\03.PlayCard\obj\Debug\03.PlayCard.pdb

@@ -1,0 +1,12 @@
+D:\Dropbox\Telerik\C# II\05.Strings\07.UnicodeCharacters\bin\Debug\07.UnicodeCharacters.exe.config
+D:\Dropbox\Telerik\C# II\05.Strings\07.UnicodeCharacters\bin\Debug\07.UnicodeCharacters.exe
+D:\Dropbox\Telerik\C# II\05.Strings\07.UnicodeCharacters\bin\Debug\07.UnicodeCharacters.pdb
+D:\Dropbox\Telerik\C# II\05.Strings\07.UnicodeCharacters\obj\Debug\07.UnicodeCharacters.exe
+D:\Dropbox\Telerik\C# II\05.Strings\07.UnicodeCharacters\obj\Debug\07.UnicodeCharacters.pdb
+D:\Dropbox\Telerik\C# II\05.Strings\07.UnicodeCharacters\obj\Debug\07.UnicodeCharacters.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# II\06.Strings\07.UnicodeCharacters\bin\Debug\07.UnicodeCharacters.exe.config
+D:\Dropbox\Telerik\C# II\06.Strings\07.UnicodeCharacters\bin\Debug\07.UnicodeCharacters.exe
+D:\Dropbox\Telerik\C# II\06.Strings\07.UnicodeCharacters\bin\Debug\07.UnicodeCharacters.pdb
+D:\Dropbox\Telerik\C# II\06.Strings\07.UnicodeCharacters\obj\Debug\07.UnicodeCharacters.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# II\06.Strings\07.UnicodeCharacters\obj\Debug\07.UnicodeCharacters.exe
+D:\Dropbox\Telerik\C# II\06.Strings\07.UnicodeCharacters\obj\Debug\07.UnicodeCharacters.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\04.NumberComparer\bin\Debug\04.NumberComparer.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\04.NumberComparer\obj\Debug\04.NumberComparer.pdb

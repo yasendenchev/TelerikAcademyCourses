@@ -1,0 +1,12 @@
+D:\Dropbox\Telerik\C# II\03.Workshop I\01.Messages\bin\Debug\01.Messages.exe.config
+D:\Dropbox\Telerik\C# II\03.Workshop I\01.Messages\bin\Debug\01.Messages.exe
+D:\Dropbox\Telerik\C# II\03.Workshop I\01.Messages\bin\Debug\01.Messages.pdb
+D:\Dropbox\Telerik\C# II\03.Workshop I\01.Messages\obj\Debug\01.Messages.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# II\03.Workshop I\01.Messages\obj\Debug\01.Messages.exe
+D:\Dropbox\Telerik\C# II\03.Workshop I\01.Messages\obj\Debug\01.Messages.pdb
+D:\Dropbox\Telerik\C# II\04.Workshop I\01.Messages\bin\Debug\01.Messages.exe.config
+D:\Dropbox\Telerik\C# II\04.Workshop I\01.Messages\obj\Debug\01.Messages.exe
+D:\Dropbox\Telerik\C# II\04.Workshop I\01.Messages\obj\Debug\01.Messages.pdb
+D:\Dropbox\Telerik\C# II\04.Workshop I\01.Messages\bin\Debug\01.Messages.exe
+D:\Dropbox\Telerik\C# II\04.Workshop I\01.Messages\bin\Debug\01.Messages.pdb
+D:\Dropbox\Telerik\C# II\04.Workshop I\01.Messages\obj\Debug\01.Messages.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Dropbox\Telerik\C# II\04.Classes And Objects\04.TriangleSurfaceByTwoSidesAndAngle\bin\Debug\04.TriangleSurfaceByTwoSidesAndAngle.exe.config
+D:\Dropbox\Telerik\C# II\04.Classes And Objects\04.TriangleSurfaceByTwoSidesAndAngle\bin\Debug\04.TriangleSurfaceByTwoSidesAndAngle.exe
+D:\Dropbox\Telerik\C# II\04.Classes And Objects\04.TriangleSurfaceByTwoSidesAndAngle\bin\Debug\04.TriangleSurfaceByTwoSidesAndAngle.pdb
+D:\Dropbox\Telerik\C# II\04.Classes And Objects\04.TriangleSurfaceByTwoSidesAndAngle\obj\Debug\04.TriangleSurfaceByTwoSidesAndAngle.exe
+D:\Dropbox\Telerik\C# II\04.Classes And Objects\04.TriangleSurfaceByTwoSidesAndAngle\obj\Debug\04.TriangleSurfaceByTwoSidesAndAngle.pdb

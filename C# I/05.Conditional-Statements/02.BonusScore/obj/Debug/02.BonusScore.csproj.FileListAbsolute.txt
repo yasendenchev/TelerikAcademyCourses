@@ -1,0 +1,5 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\02.BonusScore\bin\Debug\02.BonusScore.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\02.BonusScore\bin\Debug\02.BonusScore.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\02.BonusScore\obj\Debug\02.BonusScore.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\02.BonusScore\obj\Debug\02.BonusScore.pdb

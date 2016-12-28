@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# II\Exam Tasks\31.05.16\Exam\02.DancingMoves\bin\Debug\02.DancingMoves.exe.config
+D:\Dropbox\Telerik\C# II\Exam Tasks\31.05.16\Exam\02.DancingMoves\bin\Debug\02.DancingMoves.exe
+D:\Dropbox\Telerik\C# II\Exam Tasks\31.05.16\Exam\02.DancingMoves\bin\Debug\02.DancingMoves.pdb
+D:\Dropbox\Telerik\C# II\Exam Tasks\31.05.16\Exam\02.DancingMoves\obj\Debug\02.DancingMoves.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# II\Exam Tasks\31.05.16\Exam\02.DancingMoves\obj\Debug\02.DancingMoves.exe
+D:\Dropbox\Telerik\C# II\Exam Tasks\31.05.16\Exam\02.DancingMoves\obj\Debug\02.DancingMoves.pdb

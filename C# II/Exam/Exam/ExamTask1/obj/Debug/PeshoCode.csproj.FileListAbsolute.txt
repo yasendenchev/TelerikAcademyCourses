@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask1\bin\Debug\ExamTask1.exe.config
+D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask1\bin\Debug\ExamTask1.exe
+D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask1\bin\Debug\ExamTask1.pdb
+D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask1\obj\Debug\PeshoCode.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask1\obj\Debug\ExamTask1.exe
+D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask1\obj\Debug\ExamTask1.pdb

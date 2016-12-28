@@ -1,0 +1,5 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb
