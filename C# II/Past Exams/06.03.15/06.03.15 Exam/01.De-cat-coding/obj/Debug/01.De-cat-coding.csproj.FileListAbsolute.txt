@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# II\Exam Tasks\06.03.15\06.03.15 Exam\01.De-cat-coding\bin\Debug\01.De-cat-coding.exe.config
-D:\Dropbox\Telerik\C# II\Exam Tasks\06.03.15\06.03.15 Exam\01.De-cat-coding\bin\Debug\01.De-cat-coding.exe
-D:\Dropbox\Telerik\C# II\Exam Tasks\06.03.15\06.03.15 Exam\01.De-cat-coding\bin\Debug\01.De-cat-coding.pdb
-D:\Dropbox\Telerik\C# II\Exam Tasks\06.03.15\06.03.15 Exam\01.De-cat-coding\obj\Debug\01.De-cat-coding.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# II\Exam Tasks\06.03.15\06.03.15 Exam\01.De-cat-coding\obj\Debug\01.De-cat-coding.exe
-D:\Dropbox\Telerik\C# II\Exam Tasks\06.03.15\06.03.15 Exam\01.De-cat-coding\obj\Debug\01.De-cat-coding.pdb
