@@ -8,14 +8,18 @@ namespace DefiningClasses
 {
     public class Battery
     {
+        private BatteryType batteryType;
         private string model;
-        private int hoursIdle, hoursTalk;
+        private int hoursIdle;
+        private int hoursTalk;
 
-        public Battery(string model = null, int? hoursIdle = null, int? hoursTalk = null)
+        public Battery(string model = null, int? hoursIdle = null, int? hoursTalk = null, BatteryType batteryType = 0)
         {
-            this.model = model;
-            this.hoursIdle = (int)hoursIdle;
-            this.hoursTalk = (int)hoursTalk;
+
+            Model = model;
+            HoursIdle = (int)hoursIdle;
+            HoursTalk = (int)hoursTalk;
+            BatteryType = batteryType;
         }
 
         public string Model
@@ -27,8 +31,6 @@ namespace DefiningClasses
 
             set
             {
-               
-
                 this.model = value;
             }
         }
@@ -59,10 +61,23 @@ namespace DefiningClasses
 
             set
             {
-                if(hoursTalk < 0)
+                if (hoursTalk < 0)
                 {
                     throw new ArgumentOutOfRangeException("The number of talk hours should be larger than 0!");
                 }
+            }
+        }
+
+        public BatteryType BatteryType
+        {
+            get
+            {
+                return this.batteryType;
+            }
+
+            set
+            {
+                this.batteryType = value;
             }
         }
 

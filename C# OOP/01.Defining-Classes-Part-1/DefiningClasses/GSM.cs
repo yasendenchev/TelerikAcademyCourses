@@ -8,15 +8,9 @@ namespace DefiningClasses
 {
     public class GSM
     {
-        //private static string iPhone4S = "Some information about iphone 4s: 1gb hdd; 512mb ram; 5mp camera;";
+        // Fields
 
-        //public static string IPhone4S
-        //{
-        //    get { return iPhone4S; }
-        //}
-
-        private static GSM iPhone4s = new GSM("Apple", "4S", 500, "Pesho");
-
+        private static GSM iPhone4s = new GSM("Apple", "4S", 500, "Pesho")
 
         private string manufacturer;
         private string model;
@@ -24,27 +18,23 @@ namespace DefiningClasses
         private string owner;
         private Battery battery;
         private Display display;
+        private List<Call> callHistory = new List<Call>();
+        private const double callCost = 0.37;
 
-        public GSM(string manufacturer, string model, int? price = null, string owner = null)
+        // Constructor
+
+        public GSM(string manufacturer, string model, int? price = null, string owner = null, Battery battery = null, Display display = null)
         {
             Manufacturer = manufacturer;
             Model = model;
             Owner = owner;
             Price = price;
+            Battery = battery;
+            Display = display;
         }
 
-        public int? Price
-        {
-            get
-            {
-                return this.price;
-            }
+        // Properties
 
-            set
-            {
-                this.price = value;
-            }
-        }
 
         public string Manufacturer
         {
@@ -98,6 +88,64 @@ namespace DefiningClasses
             {
                 this.owner = value;
             }
+        }
+
+        public int? Price
+        {
+            get
+            {
+                return this.price;
+            }
+
+            set
+            {
+                this.price = value;
+            }
+        }
+
+        public Battery Battery
+        {
+            get
+            {
+                return this.battery;
+            }
+
+            set
+            {
+                this.battery = value;
+            }
+        }
+
+        public Display Display
+        {
+            get
+            {
+                return this.display;
+            }
+
+            set
+            {
+                this.display = value;
+            }
+        }
+        
+        // Methods
+
+        public override string ToString()
+        {
+            string gsmInfo = $@"
+{Model} information:
+Manufacturer: {manufacturer}
+Model: {Model}
+Price: {Price} BGN
+Owner: {Owner}
+Battery type: {Battery.BatteryType}
+Battery on idle: {Battery.HoursIdle}
+Battery on talk: {Battery.HoursTalk}
+Display size (inches): {Display.Size}
+Display colors: {Display.NumberOfColors} 
+";
+            return gsmInfo;
         }
 
     }
