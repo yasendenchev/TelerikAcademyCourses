@@ -10,7 +10,8 @@ namespace DefiningClasses
     {
         // Fields
 
-        private static GSM iPhone4s = new GSM("Apple", "4S", 500, "Pesho")
+
+        private static GSM iPhone4s = new GSM("Apple", "4S", 500, "Pesho");
 
         private string manufacturer;
         private string model;
@@ -19,7 +20,7 @@ namespace DefiningClasses
         private Battery battery;
         private Display display;
         private List<Call> callHistory = new List<Call>();
-        private const double callCost = 0.37;
+        private const decimal costPerMinute = 0.37M;
 
         // Constructor
 
@@ -128,25 +129,85 @@ namespace DefiningClasses
                 this.display = value;
             }
         }
-        
-        // Methods
 
-        public override string ToString()
+        public List<Call> CallHistory
         {
-            string gsmInfo = $@"
-{Model} information:
-Manufacturer: {manufacturer}
-Model: {Model}
-Price: {Price} BGN
-Owner: {Owner}
-Battery type: {Battery.BatteryType}
-Battery on idle: {Battery.HoursIdle}
-Battery on talk: {Battery.HoursTalk}
-Display size (inches): {Display.Size}
-Display colors: {Display.NumberOfColors} 
-";
-            return gsmInfo;
+            get
+            {
+                return this.callHistory;
+            }
+
+            set
+            {
+                this.callHistory = value;
+            }
         }
 
+        // Methods
+
+        public string ShowInfo()
+        {
+            
+           
+
+            StringBuilder info = new StringBuilder();
+            info.Append(this.model + " Information");
+            info.Append("\n" + "Manufacturer:" + this.manufacturer);
+            info.Append("\n" + "Model:" + this.model);
+            info.Append("\n" + "Price:" + this.price);
+            info.Append("\n" + "Owner:" + this.Owner);
+            if (this.battery == null)
+            {
+                info.Append("\nNO BATTERY FOUND");
+            }
+
+            else
+            {
+                
+                info.Append("\n" + "Battery type:" + this.battery.BatteryType);
+                info.Append("\nBattery hours on idle:" + this.battery.HoursIdle);
+                info.Append("\nBatterry hours for talking:" + this.battery.HoursIdle);
+            }
+
+            if (this.display == null)
+            {
+                info.Append("\nNO DISPLAY FOUND");
+            }
+
+            else
+            {
+                info.Append("\nDisplay size (inches):" + this.display.Size);
+                info.Append("\nNumber of colors" + this.display.NumberOfColors);
+            }
+            
+
+            return info.ToString();
+        }
+
+        public void AddCall(DateTime dateAndTime, string dialedNumber, int duration)
+        {
+            this.callHistory.Add(new Call( dateAndTime, dialedNumber, duration));
+        }
+
+        public void RemoveCall(int callIndex)
+        {
+            this.callHistory.RemoveAt(callIndex);
+        }
+
+        public void clearHistory()
+        {
+            this.callHistory.Clear();
+        }
+       
+        public decimal CalculateTotalPrice()
+        {
+            decimal totalCost = 0;
+            foreach (var call in callHistory)
+            {
+                totalCost += (call.Duration / 60) * costPerMinute;
+            }
+
+            return totalCost;
+        }
     }
 }

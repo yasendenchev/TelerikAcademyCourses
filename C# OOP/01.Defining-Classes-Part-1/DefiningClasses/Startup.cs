@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace DefiningClasses
 {
-    public enum BatteryType
+    class Startup
     {
-        LiIon, NiMH, NiCd
+        Console.WriteLine();
     }
 }

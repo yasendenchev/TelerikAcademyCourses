@@ -13,12 +13,13 @@ namespace DefiningClasses
         private int hoursIdle;
         private int hoursTalk;
 
-        public Battery(string model = null, int? hoursIdle = null, int? hoursTalk = null, BatteryType batteryType = 0)
+
+        public Battery(string model, int hoursIdle, int hoursTalk, BatteryType batteryType)
         {
 
             Model = model;
-            HoursIdle = (int)hoursIdle;
-            HoursTalk = (int)hoursTalk;
+            HoursIdle = hoursIdle;
+            HoursTalk = hoursTalk;
             BatteryType = batteryType;
         }
 
@@ -65,6 +66,8 @@ namespace DefiningClasses
                 {
                     throw new ArgumentOutOfRangeException("The number of talk hours should be larger than 0!");
                 }
+
+                this.hoursTalk = value;
             }
         }
 
@@ -81,5 +84,11 @@ namespace DefiningClasses
             }
         }
 
+
+    }
+
+    public enum BatteryType
+    {
+        LiIon, NiMH, NiCd
     }
 }

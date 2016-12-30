@@ -11,10 +11,10 @@ namespace DefiningClasses
         private double size;
         private ulong numberOfColors;
 
-        public Display(double? size = null, ulong? numberOfColors = null)
+        public Display(double size, ulong numberOfColors)
         {
-            Size = (double)size;
-            NumberOfColors = (ulong)numberOfColors;
+            Size = size;
+            NumberOfColors = numberOfColors;
         }
 
         public double Size
@@ -48,6 +48,8 @@ namespace DefiningClasses
                 {
                     throw new ArgumentOutOfRangeException("Number of colors must be larger than 0!");
                 }
+
+                this.numberOfColors = value;
             }
         }
     }
