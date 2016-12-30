@@ -6,8 +6,16 @@ using System.Threading.Tasks;
 
 namespace DefiningClasses
 {
+
     class Startup
     {
-        Console.WriteLine();
+        static void Main()
+        {
+            GSMTest.TestGSM();
+
+            Console.WriteLine("=============");
+
+            CallHistoryTest.CallHistory();
+        }
     }
 }

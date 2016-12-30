@@ -11,7 +11,7 @@ namespace DefiningClasses
         // Fields
 
 
-        private static GSM iPhone4s = new GSM("Apple", "4S", 500, "Pesho");
+        private static GSM iPhone4s = new GSM("Apple", "4S", 500, "Pesho", new Battery("4s battery", 3, 2, BatteryType.LiIon), new Display(4.5, 15000));
 
         private string manufacturer;
         private string model;
@@ -143,6 +143,14 @@ namespace DefiningClasses
             }
         }
 
+        public static GSM IPhone4s
+        {
+            get
+            {
+                return iPhone4s;
+            }
+        }
+
         // Methods
 
         public string ShowInfo()
@@ -151,11 +159,11 @@ namespace DefiningClasses
            
 
             StringBuilder info = new StringBuilder();
-            info.Append(this.model + " Information");
-            info.Append("\n" + "Manufacturer:" + this.manufacturer);
-            info.Append("\n" + "Model:" + this.model);
-            info.Append("\n" + "Price:" + this.price);
-            info.Append("\n" + "Owner:" + this.Owner);
+            info.Append(this.model + " Information ");
+            info.Append("\n" + "Manufacturer: " + this.manufacturer);
+            info.Append("\n" + "Model: " + this.model);
+            info.Append("\n" + "Price: " + this.price);
+            info.Append("\n" + "Owner: " + this.Owner);
             if (this.battery == null)
             {
                 info.Append("\nNO BATTERY FOUND");
@@ -164,9 +172,9 @@ namespace DefiningClasses
             else
             {
                 
-                info.Append("\n" + "Battery type:" + this.battery.BatteryType);
-                info.Append("\nBattery hours on idle:" + this.battery.HoursIdle);
-                info.Append("\nBatterry hours for talking:" + this.battery.HoursIdle);
+                info.Append("\n" + "Battery type: " + this.battery.BatteryType);
+                info.Append("\nBattery hours on idle: " + this.battery.HoursIdle);
+                info.Append("\nBatterry hours for talking: " + this.battery.HoursIdle);
             }
 
             if (this.display == null)
@@ -176,8 +184,8 @@ namespace DefiningClasses
 
             else
             {
-                info.Append("\nDisplay size (inches):" + this.display.Size);
-                info.Append("\nNumber of colors" + this.display.NumberOfColors);
+                info.Append("\nDisplay size (inches): " + this.display.Size);
+                info.Append("\nNumber of colors: " + this.display.NumberOfColors);
             }
             
 

@@ -8,7 +8,7 @@ namespace DefiningClasses
 {
     class CallHistoryTest
     {
-        static void CallHistory()
+       public static void CallHistory()
         {
 
             GSM lg = new GSM("LG", "V20", 3500, "Haralampi");

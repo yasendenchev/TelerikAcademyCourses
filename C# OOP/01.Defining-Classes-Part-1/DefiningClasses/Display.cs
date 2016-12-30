@@ -26,11 +26,6 @@ namespace DefiningClasses
 
             set
             {
-                if (size <= 0)
-                {
-                    throw new ArgumentOutOfRangeException("Display size must be larger than 0!");
-                }
-
                 this.size = value;
             }
         }
@@ -44,11 +39,6 @@ namespace DefiningClasses
 
             set
             {
-                if (numberOfColors <= 0)
-                {
-                    throw new ArgumentOutOfRangeException("Number of colors must be larger than 0!");
-                }
-
                 this.numberOfColors = value;
             }
         }

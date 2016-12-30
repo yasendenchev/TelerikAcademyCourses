@@ -44,11 +44,6 @@ namespace DefiningClasses
             }
             set
             {
-                if (hoursIdle <= 0)
-                {
-                    throw new ArgumentOutOfRangeException("The numbers of idle hours should be larger than 0!");
-                }
-
                 this.hoursIdle = value;
             }
         }
@@ -62,11 +57,6 @@ namespace DefiningClasses
 
             set
             {
-                if (hoursTalk < 0)
-                {
-                    throw new ArgumentOutOfRangeException("The number of talk hours should be larger than 0!");
-                }
-
                 this.hoursTalk = value;
             }
         }
