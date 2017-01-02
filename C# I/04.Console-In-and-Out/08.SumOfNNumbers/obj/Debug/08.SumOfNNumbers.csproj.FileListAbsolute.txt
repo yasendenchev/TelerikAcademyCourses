@@ -1,5 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\08.SumOfNNumbers\bin\Debug\08.SumOfNNumbers.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\08.SumOfNNumbers\bin\Debug\08.SumOfNNumbers.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\08.SumOfNNumbers\bin\Debug\08.SumOfNNumbers.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\08.SumOfNNumbers\obj\Debug\08.SumOfNNumbers.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\08.SumOfNNumbers\obj\Debug\08.SumOfNNumbers.pdb

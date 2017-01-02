@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# I\06.Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
-D:\Dropbox\Telerik\C# I\06.Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
-D:\Dropbox\Telerik\C# I\06.Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
-D:\Dropbox\Telerik\C# I\06.Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\06.Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
-D:\Dropbox\Telerik\C# I\06.Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

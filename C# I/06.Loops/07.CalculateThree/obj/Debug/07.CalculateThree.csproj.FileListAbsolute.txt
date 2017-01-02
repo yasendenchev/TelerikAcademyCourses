@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# I\06.Loops\07.CalculateThree\bin\Debug\07.CalculateThree.exe.config
-D:\Dropbox\Telerik\C# I\06.Loops\07.CalculateThree\bin\Debug\07.CalculateThree.exe
-D:\Dropbox\Telerik\C# I\06.Loops\07.CalculateThree\bin\Debug\07.CalculateThree.pdb
-D:\Dropbox\Telerik\C# I\06.Loops\07.CalculateThree\obj\Debug\07.CalculateThree.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\06.Loops\07.CalculateThree\obj\Debug\07.CalculateThree.exe
-D:\Dropbox\Telerik\C# I\06.Loops\07.CalculateThree\obj\Debug\07.CalculateThree.pdb

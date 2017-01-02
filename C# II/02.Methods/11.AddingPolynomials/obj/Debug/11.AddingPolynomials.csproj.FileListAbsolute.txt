@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# II\02.Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.exe.config
-D:\Dropbox\Telerik\C# II\02.Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.exe
-D:\Dropbox\Telerik\C# II\02.Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.pdb
-D:\Dropbox\Telerik\C# II\02.Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# II\02.Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.exe
-D:\Dropbox\Telerik\C# II\02.Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.pdb

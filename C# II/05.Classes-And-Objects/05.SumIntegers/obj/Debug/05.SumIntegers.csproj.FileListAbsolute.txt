@@ -1,5 +1,0 @@
-D:\Dropbox\Telerik\C# II\04.Classes And Objects\05.SumIntegers\bin\Debug\05.SumIntegers.exe.config
-D:\Dropbox\Telerik\C# II\04.Classes And Objects\05.SumIntegers\bin\Debug\05.SumIntegers.exe
-D:\Dropbox\Telerik\C# II\04.Classes And Objects\05.SumIntegers\bin\Debug\05.SumIntegers.pdb
-D:\Dropbox\Telerik\C# II\04.Classes And Objects\05.SumIntegers\obj\Debug\05.SumIntegers.exe
-D:\Dropbox\Telerik\C# II\04.Classes And Objects\05.SumIntegers\obj\Debug\05.SumIntegers.pdb

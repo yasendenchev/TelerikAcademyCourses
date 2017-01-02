@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# I\06.Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
-D:\Dropbox\Telerik\C# I\06.Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
-D:\Dropbox\Telerik\C# I\06.Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
-D:\Dropbox\Telerik\C# I\06.Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\06.Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
-D:\Dropbox\Telerik\C# I\06.Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

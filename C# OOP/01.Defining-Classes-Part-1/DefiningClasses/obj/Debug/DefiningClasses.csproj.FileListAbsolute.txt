@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# OOP\01.Defining-Classes-Part-1\DefiningClasses\bin\Debug\DefiningClasses.exe.config
-D:\Dropbox\Telerik\C# OOP\01.Defining-Classes-Part-1\DefiningClasses\bin\Debug\DefiningClasses.exe
-D:\Dropbox\Telerik\C# OOP\01.Defining-Classes-Part-1\DefiningClasses\bin\Debug\DefiningClasses.pdb
-D:\Dropbox\Telerik\C# OOP\01.Defining-Classes-Part-1\DefiningClasses\obj\Debug\DefiningClasses.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# OOP\01.Defining-Classes-Part-1\DefiningClasses\obj\Debug\DefiningClasses.exe
-D:\Dropbox\Telerik\C# OOP\01.Defining-Classes-Part-1\DefiningClasses\obj\Debug\DefiningClasses.pdb

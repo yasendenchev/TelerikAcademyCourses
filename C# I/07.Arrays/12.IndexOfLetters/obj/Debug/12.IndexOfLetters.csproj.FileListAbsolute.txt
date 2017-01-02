@@ -1,1 +1,0 @@
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe.config

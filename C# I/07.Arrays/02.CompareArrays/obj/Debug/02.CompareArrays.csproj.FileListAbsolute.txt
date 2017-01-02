@@ -1,5 +1,0 @@
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe.config
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.pdb
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.exe
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.pdb

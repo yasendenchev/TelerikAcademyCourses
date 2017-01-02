@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.exe.config
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.exe
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.pdb
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\03.CompareCharArrays\obj\Debug\03.CompareCharArrays.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\03.CompareCharArrays\obj\Debug\03.CompareCharArrays.exe
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\03.CompareCharArrays\obj\Debug\03.CompareCharArrays.pdb

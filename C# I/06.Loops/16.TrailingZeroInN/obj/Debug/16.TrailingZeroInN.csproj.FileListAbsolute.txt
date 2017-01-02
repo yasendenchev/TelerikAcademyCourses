@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# I\06.Loops\16.TrailingZeroInN\bin\Debug\16.TrailingZeroInN.exe.config
-D:\Dropbox\Telerik\C# I\06.Loops\16.TrailingZeroInN\bin\Debug\16.TrailingZeroInN.exe
-D:\Dropbox\Telerik\C# I\06.Loops\16.TrailingZeroInN\bin\Debug\16.TrailingZeroInN.pdb
-D:\Dropbox\Telerik\C# I\06.Loops\16.TrailingZeroInN\obj\Debug\16.TrailingZeroInN.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\06.Loops\16.TrailingZeroInN\obj\Debug\16.TrailingZeroInN.exe
-D:\Dropbox\Telerik\C# I\06.Loops\16.TrailingZeroInN\obj\Debug\16.TrailingZeroInN.pdb

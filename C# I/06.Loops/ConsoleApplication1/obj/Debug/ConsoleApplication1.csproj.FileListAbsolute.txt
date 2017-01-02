@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# I\06.Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\Dropbox\Telerik\C# I\06.Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\Dropbox\Telerik\C# I\06.Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\Dropbox\Telerik\C# I\06.Loops\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\06.Loops\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\Dropbox\Telerik\C# I\06.Loops\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

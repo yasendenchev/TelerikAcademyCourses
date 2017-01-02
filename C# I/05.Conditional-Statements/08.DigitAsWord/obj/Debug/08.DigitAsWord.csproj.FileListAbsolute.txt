@@ -1,5 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

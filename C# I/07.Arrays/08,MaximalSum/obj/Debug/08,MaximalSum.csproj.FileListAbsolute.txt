@@ -1,1 +1,0 @@
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\08,MaximalSum\bin\Debug\08,MaximalSum.exe.config

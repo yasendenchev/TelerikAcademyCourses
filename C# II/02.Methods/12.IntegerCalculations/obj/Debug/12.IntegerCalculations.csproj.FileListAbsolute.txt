@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# II\02.Methods\12.IntegerCalculations\bin\Debug\12.IntegerCalculations.exe.config
-D:\Dropbox\Telerik\C# II\02.Methods\12.IntegerCalculations\bin\Debug\12.IntegerCalculations.exe
-D:\Dropbox\Telerik\C# II\02.Methods\12.IntegerCalculations\bin\Debug\12.IntegerCalculations.pdb
-D:\Dropbox\Telerik\C# II\02.Methods\12.IntegerCalculations\obj\Debug\12.IntegerCalculations.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# II\02.Methods\12.IntegerCalculations\obj\Debug\12.IntegerCalculations.exe
-D:\Dropbox\Telerik\C# II\02.Methods\12.IntegerCalculations\obj\Debug\12.IntegerCalculations.pdb

@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# II\02.Methods\10.NFactorial\bin\Debug\10.NFactorial.exe.config
-D:\Dropbox\Telerik\C# II\02.Methods\10.NFactorial\obj\Debug\10.NFactorial.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# II\02.Methods\10.NFactorial\bin\Debug\10.NFactorial.exe
-D:\Dropbox\Telerik\C# II\02.Methods\10.NFactorial\bin\Debug\10.NFactorial.pdb
-D:\Dropbox\Telerik\C# II\02.Methods\10.NFactorial\obj\Debug\10.NFactorial.exe
-D:\Dropbox\Telerik\C# II\02.Methods\10.NFactorial\obj\Debug\10.NFactorial.pdb

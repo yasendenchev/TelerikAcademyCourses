@@ -1,5 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb

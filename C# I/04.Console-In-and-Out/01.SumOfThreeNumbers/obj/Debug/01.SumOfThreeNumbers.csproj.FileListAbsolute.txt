@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\01.SumOfThreeNumbers\bin\Debug\01.SumOfThreeNumbers.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\01.SumOfThreeNumbers\bin\Debug\01.SumOfThreeNumbers.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\01.SumOfThreeNumbers\bin\Debug\01.SumOfThreeNumbers.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\01.SumOfThreeNumbers\obj\Debug\01.SumOfThreeNumbers.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\01.SumOfThreeNumbers\obj\Debug\01.SumOfThreeNumbers.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\01.SumOfThreeNumbers\obj\Debug\01.SumOfThreeNumbers.pdb

@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.pdb

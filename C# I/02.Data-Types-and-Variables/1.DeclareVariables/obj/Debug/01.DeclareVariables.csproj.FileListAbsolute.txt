@@ -1,5 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\1.DeclareVariables\bin\Debug\1.DeclareVariables.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\1.DeclareVariables\obj\Debug\1.DeclareVariables.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\1.DeclareVariables\obj\Debug\1.DeclareVariables.pdb

@@ -1,5 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb

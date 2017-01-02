@@ -1,5 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\06.SumOfFiveNumbers\bin\Debug\06.SumOfFiveNumbers.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\06.SumOfFiveNumbers\bin\Debug\06.SumOfFiveNumbers.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\06.SumOfFiveNumbers\bin\Debug\06.SumOfFiveNumbers.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\06.SumOfFiveNumbers\obj\Debug\06.SumOfFiveNumbers.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\06.SumOfFiveNumbers\obj\Debug\06.SumOfFiveNumbers.pdb

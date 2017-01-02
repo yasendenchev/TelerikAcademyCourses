@@ -1,5 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\07.SortThreeNumbers\bin\Debug\07.SortThreeNumbers.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\07.SortThreeNumbers\bin\Debug\07.SortThreeNumbers.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\07.SortThreeNumbers\bin\Debug\07.SortThreeNumbers.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\07.SortThreeNumbers\obj\Debug\07.SortThreeNumbers.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\07.SortThreeNumbers\obj\Debug\07.SortThreeNumbers.pdb

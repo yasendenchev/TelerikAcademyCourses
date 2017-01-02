@@ -1,9 +1,0 @@
-D:\Dropbox\Telerik\C# II\05.Strings\01.ReverseString\bin\Debug\01.ReverseString.exe.config
-D:\Dropbox\Telerik\C# II\05.Strings\01.ReverseString\obj\Debug\01.ReverseString.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# II\05.Strings\01.ReverseString\bin\Debug\01.ReverseString.exe
-D:\Dropbox\Telerik\C# II\05.Strings\01.ReverseString\bin\Debug\01.ReverseString.pdb
-D:\Dropbox\Telerik\C# II\05.Strings\01.ReverseString\obj\Debug\01.ReverseString.exe
-D:\Dropbox\Telerik\C# II\05.Strings\01.ReverseString\obj\Debug\01.ReverseString.pdb
-D:\Dropbox\Telerik\C# II\06.Strings\01.ReverseString\bin\Debug\01.ReverseString.exe.config
-D:\Dropbox\Telerik\C# II\06.Strings\01.ReverseString\obj\Debug\01.ReverseString.exe
-D:\Dropbox\Telerik\C# II\06.Strings\01.ReverseString\obj\Debug\01.ReverseString.pdb

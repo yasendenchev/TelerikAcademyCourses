@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\14.BitExchange\bin\Debug\14.BitExchange.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\14.BitExchange\bin\Debug\14.BitExchange.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\14.BitExchange\bin\Debug\14.BitExchange.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\14.BitExchange\obj\Debug\14.BitExchange.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\14.BitExchange\obj\Debug\14.BitExchange.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\14.BitExchange\obj\Debug\14.BitExchange.pdb

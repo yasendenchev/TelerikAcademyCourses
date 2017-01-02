@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# II\02.Methods\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.exe.config
-D:\Dropbox\Telerik\C# II\02.Methods\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.exe
-D:\Dropbox\Telerik\C# II\02.Methods\05.LargerThanNeighbours\bin\Debug\05.LargerThanNeighbours.pdb
-D:\Dropbox\Telerik\C# II\02.Methods\05.LargerThanNeighbours\obj\Debug\05.LargerThanNeighbours.exe
-D:\Dropbox\Telerik\C# II\02.Methods\05.LargerThanNeighbours\obj\Debug\05.LargerThanNeighbours.pdb
-D:\Dropbox\Telerik\C# II\02.Methods\05.LargerThanNeighbours\obj\Debug\05.LargerThanNeighbours.csprojResolveAssemblyReference.cache

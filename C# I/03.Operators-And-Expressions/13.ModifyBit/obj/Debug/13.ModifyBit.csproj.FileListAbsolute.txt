@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\13.ModifyBit\bin\Debug\13.ModifyBit.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\13.ModifyBit\bin\Debug\13.ModifyBit.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\13.ModifyBit\bin\Debug\13.ModifyBit.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\13.ModifyBit\obj\Debug\13.ModifyBit.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\13.ModifyBit\obj\Debug\13.ModifyBit.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\13.ModifyBit\obj\Debug\13.ModifyBit.pdb

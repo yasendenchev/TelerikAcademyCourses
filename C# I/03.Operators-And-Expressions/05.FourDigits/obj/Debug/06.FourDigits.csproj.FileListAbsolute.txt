@@ -1,5 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\05.FourDigits\bin\Debug\05.FourDigits.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\05.FourDigits\bin\Debug\05.FourDigits.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\05.FourDigits\bin\Debug\05.FourDigits.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\05.FourDigits\obj\Debug\05.FourDigits.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\05.FourDigits\obj\Debug\05.FourDigits.pdb

@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask2\bin\Debug\ExamTask2.exe.config
-D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask2\bin\Debug\ExamTask2.exe
-D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask2\bin\Debug\ExamTask2.pdb
-D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask2\obj\Debug\ExamTask2.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask2\obj\Debug\ExamTask2.exe
-D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask2\obj\Debug\ExamTask2.pdb

@@ -1,2 +1,0 @@
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\15.PrimeNumber\bin\Debug\15.PrimeNumber.exe.config
-D:\Dropbox\Telerik\C# I\07.Arrays\15.PrimeNumber\bin\Debug\15.PrimeNumber.exe.config

@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# I\07.Workshop\2FebruaryExam\02.TextToNumber\bin\Debug\02.TextToNumber.exe.config
-D:\Dropbox\Telerik\C# I\07.Workshop\2FebruaryExam\02.TextToNumber\bin\Debug\02.TextToNumber.exe
-D:\Dropbox\Telerik\C# I\07.Workshop\2FebruaryExam\02.TextToNumber\bin\Debug\02.TextToNumber.pdb
-D:\Dropbox\Telerik\C# I\07.Workshop\2FebruaryExam\02.TextToNumber\obj\Debug\02.TextToNumber.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\07.Workshop\2FebruaryExam\02.TextToNumber\obj\Debug\02.TextToNumber.exe
-D:\Dropbox\Telerik\C# I\07.Workshop\2FebruaryExam\02.TextToNumber\obj\Debug\02.TextToNumber.pdb

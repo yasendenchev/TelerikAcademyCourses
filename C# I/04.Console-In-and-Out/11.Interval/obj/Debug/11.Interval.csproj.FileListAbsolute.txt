@@ -1,5 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\11.Interval\bin\Debug\11.Interval.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\11.Interval\bin\Debug\11.Interval.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\11.Interval\bin\Debug\11.Interval.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\11.Interval\obj\Debug\11.Interval.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\11.Interval\obj\Debug\11.Interval.pdb

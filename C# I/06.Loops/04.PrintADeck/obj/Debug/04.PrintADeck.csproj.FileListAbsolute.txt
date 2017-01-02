@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# I\06.Loops\04.PrintADeck\bin\Debug\04.PrintADeck.exe.config
-D:\Dropbox\Telerik\C# I\06.Loops\04.PrintADeck\bin\Debug\04.PrintADeck.exe
-D:\Dropbox\Telerik\C# I\06.Loops\04.PrintADeck\bin\Debug\04.PrintADeck.pdb
-D:\Dropbox\Telerik\C# I\06.Loops\04.PrintADeck\obj\Debug\04.PrintADeck.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\06.Loops\04.PrintADeck\obj\Debug\04.PrintADeck.exe
-D:\Dropbox\Telerik\C# I\06.Loops\04.PrintADeck\obj\Debug\04.PrintADeck.pdb

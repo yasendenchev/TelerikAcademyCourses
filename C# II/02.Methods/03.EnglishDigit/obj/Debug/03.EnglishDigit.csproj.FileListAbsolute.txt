@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# II\02.Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe.config
-D:\Dropbox\Telerik\C# II\02.Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe
-D:\Dropbox\Telerik\C# II\02.Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.pdb
-D:\Dropbox\Telerik\C# II\02.Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# II\02.Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.exe
-D:\Dropbox\Telerik\C# II\02.Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.pdb

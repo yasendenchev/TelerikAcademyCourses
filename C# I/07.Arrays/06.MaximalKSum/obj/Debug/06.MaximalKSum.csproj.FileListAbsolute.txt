@@ -1,9 +1,0 @@
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\06.MaximalKSum\bin\Debug\06.MaximalKSum.exe.config
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\06.MaximalKSum\bin\Debug\06.MaximalKSum.exe
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\06.MaximalKSum\bin\Debug\06.MaximalKSum.pdb
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\06.MaximalKSum\obj\Debug\06.MaximalKSum.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\06.MaximalKSum\obj\Debug\06.MaximalKSum.exe
-D:\Dropbox\Telerik\C# I\07.Workshop\07.Arrays\06.MaximalKSum\obj\Debug\06.MaximalKSum.pdb
-D:\Dropbox\Telerik\C# I\07.Arrays\06.MaximalKSum\bin\Debug\06.MaximalKSum.exe.config
-D:\Dropbox\Telerik\C# I\07.Arrays\06.MaximalKSum\obj\Debug\06.MaximalKSum.exe
-D:\Dropbox\Telerik\C# I\07.Arrays\06.MaximalKSum\obj\Debug\06.MaximalKSum.pdb

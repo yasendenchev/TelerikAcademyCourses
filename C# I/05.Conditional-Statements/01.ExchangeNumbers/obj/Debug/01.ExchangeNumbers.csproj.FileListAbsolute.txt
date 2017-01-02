@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\01.ExchangeNumbers\bin\Debug\01.ExchangeNumbers.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\01.ExchangeNumbers\bin\Debug\01.ExchangeNumbers.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\01.ExchangeNumbers\bin\Debug\01.ExchangeNumbers.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\01.ExchangeNumbers\obj\Debug\01.ExchangeNumbers.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\01.ExchangeNumbers\obj\Debug\01.ExchangeNumbers.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\05.Conditiona-Statements\01.ExchangeNumbers\obj\Debug\01.ExchangeNumbers.pdb

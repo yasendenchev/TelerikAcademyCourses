@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# I\07.Workshop\Workshop\02.Buses\bin\Debug\02.Buses.exe.config
-D:\Dropbox\Telerik\C# I\07.Workshop\Workshop\02.Buses\bin\Debug\02.Buses.exe
-D:\Dropbox\Telerik\C# I\07.Workshop\Workshop\02.Buses\bin\Debug\02.Buses.pdb
-D:\Dropbox\Telerik\C# I\07.Workshop\Workshop\02.Buses\obj\Debug\02.Buses.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\07.Workshop\Workshop\02.Buses\obj\Debug\02.Buses.exe
-D:\Dropbox\Telerik\C# I\07.Workshop\Workshop\02.Buses\obj\Debug\02.Buses.pdb

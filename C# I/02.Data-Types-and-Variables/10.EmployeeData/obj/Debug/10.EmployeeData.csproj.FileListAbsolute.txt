@@ -1,5 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\10.EmployeeData\bin\Debug\10.EmployeeData.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\10.EmployeeData\obj\Debug\10.EmployeeData.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

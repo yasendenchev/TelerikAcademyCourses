@@ -1,1 +1,0 @@
-D:\Dropbox\Telerik\C# II\02.Methods\09.SortinArray\bin\Debug\09.SortinArray.exe.config

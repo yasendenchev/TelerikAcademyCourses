@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# I\06.Loops\15.GCD\bin\Debug\15.GCD.exe.config
-D:\Dropbox\Telerik\C# I\06.Loops\15.GCD\bin\Debug\15.GCD.exe
-D:\Dropbox\Telerik\C# I\06.Loops\15.GCD\bin\Debug\15.GCD.pdb
-D:\Dropbox\Telerik\C# I\06.Loops\15.GCD\obj\Debug\15.GCD.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# I\06.Loops\15.GCD\obj\Debug\15.GCD.exe
-D:\Dropbox\Telerik\C# I\06.Loops\15.GCD\obj\Debug\15.GCD.pdb

@@ -1,5 +1,0 @@
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\02.CompanyInfo\bin\Debug\02.CompanyInfo.exe.config
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\02.CompanyInfo\bin\Debug\02.CompanyInfo.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\02.CompanyInfo\bin\Debug\02.CompanyInfo.pdb
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\02.CompanyInfo\obj\Debug\02.CompanyInfo.exe
-D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\02.CompanyInfo\obj\Debug\02.CompanyInfo.pdb

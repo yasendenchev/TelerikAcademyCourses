@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\C# II\CSharp Advanced 04.Dealer\Dealer\bin\Debug\Dealer.exe.config
-D:\Dropbox\Telerik\C# II\CSharp Advanced 04.Dealer\Dealer\bin\Debug\Dealer.exe
-D:\Dropbox\Telerik\C# II\CSharp Advanced 04.Dealer\Dealer\bin\Debug\Dealer.pdb
-D:\Dropbox\Telerik\C# II\CSharp Advanced 04.Dealer\Dealer\obj\Debug\Dealer.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\C# II\CSharp Advanced 04.Dealer\Dealer\obj\Debug\Dealer.exe
-D:\Dropbox\Telerik\C# II\CSharp Advanced 04.Dealer\Dealer\obj\Debug\Dealer.pdb
