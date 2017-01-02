@@ -1,0 +1,60 @@
+#header {
+    position: relative;
+    font-size: 40px;
+    text-align: center;
+}
+
+h1,
+h3 {
+    font-size: 30px;
+    color: #FAFAD2;
+}
+
+html {
+    background-color: #A9A9A9;
+}
+
+.current {
+    background-color: #D3D3D3;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+li a {
+    font-weight: bolder;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+}
+
+ul li:hover {
+    text-decoration: underline;
+}
+
+.op {
+    font-weight: 100;
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+}
+
+#footer {
+    font-weight: bolder;
+    font-size: 17px;
+    text-align: center;
+}
+
+p {
+    font-size: 17px;
+    font-weight: bold;
+    height: 22px;
+    overflow: hidden;
+}

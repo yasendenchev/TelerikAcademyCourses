@@ -1,0 +1,5 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\07.NumbersFromOneToN\bin\Debug\07.NumbersFromOneToN.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\07.NumbersFromOneToN\bin\Debug\07.NumbersFromOneToN.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\07.NumbersFromOneToN\bin\Debug\07.NumbersFromOneToN.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\07.NumbersFromOneToN\obj\Debug\07.NumbersFromOneToN.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\07.NumbersFromOneToN\obj\Debug\07.NumbersFromOneToN.pdb

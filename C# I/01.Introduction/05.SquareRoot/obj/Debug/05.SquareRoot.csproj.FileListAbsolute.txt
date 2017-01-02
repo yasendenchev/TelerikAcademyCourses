@@ -1,0 +1,11 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\05.SquareRoot\bin\Debug\05.SquareRoot.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\05.SquareRoot\bin\Debug\05.SquareRoot.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\05.SquareRoot\bin\Debug\05.SquareRoot.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\05.SquareRoot\obj\Debug\05.SquareRoot.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\05.SquareRoot\obj\Debug\05.SquareRoot.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\05.SquareRoot\bin\Debug\05.SquareRoot.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\05.SquareRoot\bin\Debug\05.SquareRoot.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\05.SquareRoot\bin\Debug\05.SquareRoot.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\05.SquareRoot\obj\Debug\05.SquareRoot.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# I\1.Introduction\05.SquareRoot\obj\Debug\05.SquareRoot.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\05.SquareRoot\obj\Debug\05.SquareRoot.pdb

@@ -1,0 +1,12 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\11.ThirdBit\bin\Debug\11.ThirdBit.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\11.ThirdBit\obj\Debug\11.ThirdBit.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\11.ThirdBit\bin\Debug\11.ThirdBit.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\11.ThirdBit\bin\Debug\11.ThirdBit.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\11.ThirdBit\obj\Debug\11.ThirdBit.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\03.Operators-And-Expressions\11.ThirdBit\obj\Debug\11.ThirdBit.pdb
+D:\Dropbox\Telerik\C# I\03.Operators-And-Expressions\11.ThirdBit\bin\Debug\11.ThirdBit.exe.config
+D:\Dropbox\Telerik\C# I\03.Operators-And-Expressions\11.ThirdBit\bin\Debug\11.ThirdBit.exe
+D:\Dropbox\Telerik\C# I\03.Operators-And-Expressions\11.ThirdBit\bin\Debug\11.ThirdBit.pdb
+D:\Dropbox\Telerik\C# I\03.Operators-And-Expressions\11.ThirdBit\obj\Debug\11.ThirdBit.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# I\03.Operators-And-Expressions\11.ThirdBit\obj\Debug\11.ThirdBit.exe
+D:\Dropbox\Telerik\C# I\03.Operators-And-Expressions\11.ThirdBit\obj\Debug\11.ThirdBit.pdb

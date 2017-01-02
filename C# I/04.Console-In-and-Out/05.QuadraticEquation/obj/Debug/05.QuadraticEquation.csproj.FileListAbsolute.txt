@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\05.QuadraticEquation\bin\Debug\05.QuadraticEquation.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\05.QuadraticEquation\bin\Debug\05.QuadraticEquation.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\05.QuadraticEquation\bin\Debug\05.QuadraticEquation.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\05.QuadraticEquation\obj\Debug\05.QuadraticEquation.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\05.QuadraticEquation\obj\Debug\05.QuadraticEquation.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\04.Console-In-and-Out\05.QuadraticEquation\obj\Debug\05.QuadraticEquation.pdb

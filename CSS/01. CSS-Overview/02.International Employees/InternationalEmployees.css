@@ -1,0 +1,47 @@
+.flag {
+    width: 20px;
+    height: 15px;
+    border-radius: 10%;
+}
+td{
+    padding-left: 5px;
+}
+
+td:nth-child(2n) {
+    border-left: 1px solid grey;
+}
+
+td:nth-child(3n) {
+    border-left: 1px solid grey;
+}
+
+table {
+    border-spacing: 0;
+    font-size: 15x;
+    font-family: serif;
+    height: 150px;
+    width: 500px;
+}
+
+#topRow td {
+    background-color; #56b906;
+    border-bottom: 1px grey solid;
+    font-weight:
+}
+
+thead {
+    color: white;
+    background: linear-gradient(#56B906, #56B906);
+}
+
+#topRow {
+    border-bottom: 1px solid grey;
+}
+
+tr:nth-child(2n) {
+    background-color: #ECECD8;
+}
+
+#bottomRow td {
+    border-bottom: 1px solid grey;
+}

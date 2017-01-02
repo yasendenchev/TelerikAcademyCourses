@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# I\07.Workshop\Workshop\03.NumberOfPages\bin\Debug\03.NumberOfPages.exe.config
+D:\Dropbox\Telerik\C# I\07.Workshop\Workshop\03.NumberOfPages\bin\Debug\03.NumberOfPages.exe
+D:\Dropbox\Telerik\C# I\07.Workshop\Workshop\03.NumberOfPages\bin\Debug\03.NumberOfPages.pdb
+D:\Dropbox\Telerik\C# I\07.Workshop\Workshop\03.NumberOfPages\obj\Debug\03.NumberOfPages.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# I\07.Workshop\Workshop\03.NumberOfPages\obj\Debug\03.NumberOfPages.exe
+D:\Dropbox\Telerik\C# I\07.Workshop\Workshop\03.NumberOfPages\obj\Debug\03.NumberOfPages.pdb

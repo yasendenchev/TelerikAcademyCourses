@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# II\05.Strings\06.ExtractSentences\bin\Debug\06.ExtractSentences.exe.config
+D:\Dropbox\Telerik\C# II\05.Strings\06.ExtractSentences\bin\Debug\06.ExtractSentences.exe
+D:\Dropbox\Telerik\C# II\05.Strings\06.ExtractSentences\bin\Debug\06.ExtractSentences.pdb
+D:\Dropbox\Telerik\C# II\05.Strings\06.ExtractSentences\obj\Debug\06.ExtractSentences.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# II\05.Strings\06.ExtractSentences\obj\Debug\06.ExtractSentences.exe
+D:\Dropbox\Telerik\C# II\05.Strings\06.ExtractSentences\obj\Debug\06.ExtractSentences.pdb

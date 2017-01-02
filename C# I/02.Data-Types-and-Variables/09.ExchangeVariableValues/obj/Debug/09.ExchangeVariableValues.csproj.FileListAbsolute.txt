@@ -1,0 +1,5 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.pdb

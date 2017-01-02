@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask4\bin\Debug\ExamTask4.exe.config
+D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask4\obj\Debug\ExamTask4.exe
+D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask4\obj\Debug\ExamTask4.pdb
+D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask4\bin\Debug\ExamTask4.exe
+D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask4\bin\Debug\ExamTask4.pdb
+D:\Dropbox\Telerik\C# II\Exam\Exam\ExamTask4\obj\Debug\FunctionalNumeralSystem.csprojResolveAssemblyReference.cache

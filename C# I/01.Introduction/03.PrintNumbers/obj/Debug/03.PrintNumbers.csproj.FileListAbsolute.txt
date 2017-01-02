@@ -1,0 +1,12 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\03.PrintNumbers\bin\Debug\03.PrintNumbers.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\03.PrintNumbers\obj\Debug\03.PrintNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\03.PrintNumbers\bin\Debug\03.PrintNumbers.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\03.PrintNumbers\bin\Debug\03.PrintNumbers.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\03.PrintNumbers\obj\Debug\03.PrintNumbers.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\03.PrintNumbers\obj\Debug\03.PrintNumbers.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\03.PrintNumbers\bin\Debug\03.PrintNumbers.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\03.PrintNumbers\bin\Debug\03.PrintNumbers.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\03.PrintNumbers\bin\Debug\03.PrintNumbers.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\03.PrintNumbers\obj\Debug\03.PrintNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# I\1.Introduction\03.PrintNumbers\obj\Debug\03.PrintNumbers.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\03.PrintNumbers\obj\Debug\03.PrintNumbers.pdb

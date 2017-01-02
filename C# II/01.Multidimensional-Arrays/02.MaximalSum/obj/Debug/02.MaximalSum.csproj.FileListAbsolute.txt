@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\02.MaximalSum\obj\Debug\02.MaximalSum.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\02.MaximalSum\obj\Debug\02.MaximalSum.pdb

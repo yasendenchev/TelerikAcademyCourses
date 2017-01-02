@@ -1,0 +1,1 @@
+D:\Dropbox\Telerik\C# II\07.Exceptions\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config

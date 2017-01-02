@@ -1,0 +1,11 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\04.PrintFirstAndLastName\obj\Debug\04.PrintFirstAndLastName.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\04.PrintFirstAndLastName\obj\Debug\04.PrintFirstAndLastName.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\04.PrintFirstAndLastName\obj\Debug\04.PrintFirstAndLastName.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# I\1.Introduction\04.PrintFirstAndLastName\obj\Debug\04.PrintFirstAndLastName.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\04.PrintFirstAndLastName\obj\Debug\04.PrintFirstAndLastName.pdb

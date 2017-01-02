@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# I\06.Loops\02.NotDivisibleNumbers\bin\Debug\02.NotDivisibleNumbers.exe.config
+D:\Dropbox\Telerik\C# I\06.Loops\02.NotDivisibleNumbers\obj\Debug\02.NotDivisibleNumbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# I\06.Loops\02.NotDivisibleNumbers\bin\Debug\02.NotDivisibleNumbers.exe
+D:\Dropbox\Telerik\C# I\06.Loops\02.NotDivisibleNumbers\bin\Debug\02.NotDivisibleNumbers.pdb
+D:\Dropbox\Telerik\C# I\06.Loops\02.NotDivisibleNumbers\obj\Debug\02.NotDivisibleNumbers.exe
+D:\Dropbox\Telerik\C# I\06.Loops\02.NotDivisibleNumbers\obj\Debug\02.NotDivisibleNumbers.pdb

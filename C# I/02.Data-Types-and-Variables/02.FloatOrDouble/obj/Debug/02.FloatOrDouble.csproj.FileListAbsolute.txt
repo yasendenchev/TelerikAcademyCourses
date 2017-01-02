@@ -1,0 +1,5 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

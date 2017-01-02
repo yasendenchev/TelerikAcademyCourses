@@ -1,0 +1,11 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\06.PrintSequence\bin\Debug\06.PrintSequence.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\06.PrintSequence\bin\Debug\06.PrintSequence.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\06.PrintSequence\bin\Debug\06.PrintSequence.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\06.PrintSequence\obj\Debug\06.PrintSequence.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\06.PrintSequence\obj\Debug\06.PrintSequence.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\06.PrintSequence\bin\Debug\06.PrintSequence.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\06.PrintSequence\bin\Debug\06.PrintSequence.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\06.PrintSequence\bin\Debug\06.PrintSequence.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\06.PrintSequence\obj\Debug\06.PrintSequence.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# I\1.Introduction\06.PrintSequence\obj\Debug\06.PrintSequence.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\06.PrintSequence\obj\Debug\06.PrintSequence.pdb

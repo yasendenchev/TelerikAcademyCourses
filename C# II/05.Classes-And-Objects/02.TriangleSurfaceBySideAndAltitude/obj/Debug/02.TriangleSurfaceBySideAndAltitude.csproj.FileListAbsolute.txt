@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# II\04.Classes And Objects\02.TriangleSurfaceBySideAndAltitude\bin\Debug\02.TriangleSurfaceBySideAndAltitude.exe.config
+D:\Dropbox\Telerik\C# II\04.Classes And Objects\02.TriangleSurfaceBySideAndAltitude\bin\Debug\02.TriangleSurfaceBySideAndAltitude.exe
+D:\Dropbox\Telerik\C# II\04.Classes And Objects\02.TriangleSurfaceBySideAndAltitude\bin\Debug\02.TriangleSurfaceBySideAndAltitude.pdb
+D:\Dropbox\Telerik\C# II\04.Classes And Objects\02.TriangleSurfaceBySideAndAltitude\obj\Debug\02.TriangleSurfaceBySideAndAltitude.exe
+D:\Dropbox\Telerik\C# II\04.Classes And Objects\02.TriangleSurfaceBySideAndAltitude\obj\Debug\02.TriangleSurfaceBySideAndAltitude.pdb
+D:\Dropbox\Telerik\C# II\04.Classes And Objects\02.TriangleSurfaceBySideAndAltitude\obj\Debug\02.TriangleSurfaceBySideAndAltitude.csprojResolveAssemblyReference.cache

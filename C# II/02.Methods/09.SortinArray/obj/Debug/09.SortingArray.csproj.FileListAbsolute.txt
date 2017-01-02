@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# II\02.Methods\09.SortinArray\bin\Debug\09.SortinArray.exe.config
+D:\Dropbox\Telerik\C# II\02.Methods\09.SortinArray\bin\Debug\09.SortinArray.exe
+D:\Dropbox\Telerik\C# II\02.Methods\09.SortinArray\bin\Debug\09.SortinArray.pdb
+D:\Dropbox\Telerik\C# II\02.Methods\09.SortinArray\obj\Debug\09.SortingArray.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# II\02.Methods\09.SortinArray\obj\Debug\09.SortinArray.exe
+D:\Dropbox\Telerik\C# II\02.Methods\09.SortinArray\obj\Debug\09.SortinArray.pdb

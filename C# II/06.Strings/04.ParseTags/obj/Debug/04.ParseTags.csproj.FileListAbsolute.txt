@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# II\05.Strings\04.ParseTags\bin\Debug\04.ParseTags.exe.config
+D:\Dropbox\Telerik\C# II\05.Strings\04.ParseTags\bin\Debug\04.ParseTags.exe
+D:\Dropbox\Telerik\C# II\05.Strings\04.ParseTags\bin\Debug\04.ParseTags.pdb
+D:\Dropbox\Telerik\C# II\05.Strings\04.ParseTags\obj\Debug\04.ParseTags.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# II\05.Strings\04.ParseTags\obj\Debug\04.ParseTags.exe
+D:\Dropbox\Telerik\C# II\05.Strings\04.ParseTags\obj\Debug\04.ParseTags.pdb

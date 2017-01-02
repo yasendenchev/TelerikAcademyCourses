@@ -1,0 +1,10 @@
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe.config
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.pdb
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.exe
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.pdb
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe.manifest
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.application
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.exe.manifest
+D:\Dropbox\Telerik\C# II\01.Multidimensional Arrays\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.application

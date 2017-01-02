@@ -1,0 +1,7 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\1.Introduction\02.PrintMyName\bin\Debug\02.PrintMyName.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\02.PrintMyName\bin\Debug\02.PrintMyName.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\02.PrintMyName\bin\Debug\02.PrintMyName.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\02.PrintMyName\bin\Debug\02.PrintMyName.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\02.PrintMyName\obj\Debug\02.PrintMyName.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# I\1.Introduction\02.PrintMyName\obj\Debug\02.PrintMyName.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\02.PrintMyName\obj\Debug\02.PrintMyName.pdb

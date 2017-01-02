@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# II\05.Strings\03.SubStringInText\bin\Debug\03.SubStringInText.exe.config
+D:\Dropbox\Telerik\C# II\05.Strings\03.SubStringInText\bin\Debug\03.SubStringInText.exe
+D:\Dropbox\Telerik\C# II\05.Strings\03.SubStringInText\bin\Debug\03.SubStringInText.pdb
+D:\Dropbox\Telerik\C# II\05.Strings\03.SubStringInText\obj\Debug\03.SubStringInText.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# II\05.Strings\03.SubStringInText\obj\Debug\03.SubStringInText.exe
+D:\Dropbox\Telerik\C# II\05.Strings\03.SubStringInText\obj\Debug\03.SubStringInText.pdb

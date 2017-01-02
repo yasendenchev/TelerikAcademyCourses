@@ -1,0 +1,5 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe.config
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.pdb
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.exe
+D:\Dropbox\Telerik\C# I\1.Introduction\02.Data-Types-and-Variables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.pdb
