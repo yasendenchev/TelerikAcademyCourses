@@ -26,4 +26,3 @@ function solve(args) {
     }
     console.log(mostOccNum + " (" + mostOcc + " times)");
 }
-solve(['13', '4', '1', '1', '4', '2', '3', '4', '4', '1', '2', '4', '9', '3']);
