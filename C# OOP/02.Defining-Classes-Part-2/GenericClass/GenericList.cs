@@ -5,9 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace GenericClass
-{   // Какво е IComparable?
-    // Кога да използвам elements/Elements .. count/Count
-    //Защо вместо field използваме само property?
+{   
     class GenericList<T> where T : IComparable<T>
     {
         private T[] elements;
@@ -110,14 +108,7 @@ namespace GenericClass
         {
             var itemIndex = Array.IndexOf(this.elements, item);
 
-            for (int i = itemIndex; i < this.Count - 1; i++)
-            {
-                this.elements[i] = this.elements[i + 1];
-            }
-
-            this.elements[this.Count - 1] = default(T);
-
-            this.Count--;
+            RemoveAtIndex(itemIndex);
         }
 
         public void RemoveAtIndex(int index)
@@ -131,8 +122,10 @@ namespace GenericClass
             {
                 this.elements[i] = this.elements[i + 1];
             }
+
             this.elements[Count - 1] = default(T);
-            --Count;
+
+            this.Count--;
         }
 
         public void Clear()
