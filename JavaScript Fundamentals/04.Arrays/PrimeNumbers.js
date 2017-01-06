@@ -1,19 +1,26 @@
 function solve(args) {
-    let n = +args[0]
-    let arr = [];
-    arr[n] = true;
-    let count = 0;
-    arr.fill(true);
+    var arr = [],
+        num = +args[0];
 
-    for (let i = 2; i <= Math.sqrt(n); i++) {
-        if (arr[i] == true) {
-            for(let j = i * i ; j <= n; j += i, count++) {
-                 arr[j] = false;
-            }
+    for (var i = num; i >= 2; i--) {
+        if (isPrime(i)) {
+            return i;
         }
     }
 
-    console.log(arr.lastIndexOf(true));
 
+
+    function isPrime(num) {
+        if (num < 2) {
+            return false;
+        }
+        for (var i = 2; i <= num / 2; i++) {
+            if (num % i === 0) {
+                return false;
+            }
+        }
+        return true;
+    }
 }
-solve([100000000]);
+
+solve(['100000000']);
