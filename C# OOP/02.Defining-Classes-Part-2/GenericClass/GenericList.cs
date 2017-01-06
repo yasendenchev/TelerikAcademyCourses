@@ -5,14 +5,17 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace GenericClass
-{
-    class GenericList<T>
+{   // Какво е IComparable?
+    // Кога да използвам elements/Elements .. count/Count
+    //Защо вместо field използваме само property?
+    class GenericList<T> where T : IComparable<T>
     {
         private T[] elements;
         private int capacity;
 
-        public int Count { get; private set; }
 
+
+        // Constructor
         public GenericList(int capacity)
         {
             this.Count = 0;
@@ -20,6 +23,9 @@ namespace GenericClass
             this.capacity = capacity;
         }
 
+        // Properties
+        public int Count { get; private set; }
+        
         public int Capacity
         {
             get
@@ -46,7 +52,7 @@ namespace GenericClass
             }
         }
 
-        //[1, 4, 6 , 7, 8] c = 5  i = 1
+        //Methods
 
         public void Add(T item)
         {
@@ -56,6 +62,48 @@ namespace GenericClass
             }
             elements[this.Count] = item;
             this.Count++;
+        }
+
+        public void InsertValueAtIndex(T value, int index)
+        {
+            if (index >= this.Capacity)
+            {
+                throw new ArgumentOutOfRangeException("Index is greater than capacity!");
+            }
+
+            if (this.Count == this.Capacity)
+            {
+                this.Expand();
+            }
+
+            T[] subArray = new T[this.Capacity];
+
+            for (int i = index; i < this.Count; i++)
+            {
+                subArray[i + 1] = elements[i];
+            }
+
+            elements[index] = value;
+
+            for (int i = index + 1; i < this.Count + 1; i++)
+            {
+                elements[i] = subArray[i];
+            }
+        }
+
+        private void Expand()
+        {
+
+            T[] newArray = new T[2 * this.Capacity];
+
+            for (int i = 0; i < this.Count; i++)
+            {
+                newArray[i] = this.elements[i];
+            }
+
+            this.elements = newArray;
+            this.Capacity *= 2;
+
         }
 
         public void RemoveFirst(T item)
@@ -72,23 +120,99 @@ namespace GenericClass
             this.Count--;
         }
 
+        public void RemoveAtIndex(int index)
+        {
+            if (index > Count)
+            {
+                throw new ArgumentOutOfRangeException("There is no value at this index!");
+            }
+
+            for (int i = index; i < Count - 1; i++)
+            {
+                this.elements[i] = this.elements[i + 1];
+            }
+            this.elements[Count - 1] = default(T);
+            --Count;
+        }
+
+        public void Clear()
+        {
+            for (int i = 0; i < Count; i++)
+            {
+                this.elements[i] = default(T);
+            }
+        }
+
+        public T ValueAtIndex(int index)
+        {
+            T result = this.elements[index];
+            return result;
+        }
+
         public override string ToString()
         {
             string result = string.Join(", ", this.elements);
             return result;
         }
 
-        private void Expand()
+        public T Min()
         {
-
-            T[] newArray = new T[2 * this.Capacity];
-
-            for (int i = 0; i < this.Count; i++)
+            if (elements.Length == 0)
             {
-                newArray[i] = this.elements[i];
+                throw new Exception("The list is empty!");
             }
 
-            this.elements = newArray;
+            if (elements.Length == 1)
+            {
+                return elements[0];
+            }
+
+            else
+            {
+                T min = elements[0];
+
+                foreach (T item in elements)
+                {
+                    if (item.CompareTo(default(T)) == 0)
+                    {
+                        continue;
+                    }
+                    if (min.CompareTo(item) > 0)
+                    {
+                        min = item;
+                    }
+                }
+                return min;
+            }
         }
+
+        public T Max()
+        {
+            if (elements.Length == 0)
+            {
+                throw new Exception("The list is empty!");
+            }
+
+            if (elements.Length == 1)
+            {
+                return elements[0];
+            }
+
+            else
+            {
+                T max = elements[0];
+
+                foreach (T item in elements)
+                {
+                    
+                    if (max.CompareTo(item) < 0)
+                    {
+                        max = item;
+                    }
+                }
+                return max;
+            }
+        }
+
     }
 }

@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\GenericClass\bin\Debug\GenericClass.exe.config
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\GenericClass\bin\Debug\GenericClass.exe
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\GenericClass\bin\Debug\GenericClass.pdb
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\GenericClass\obj\Debug\GenericClass.exe
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\GenericClass\obj\Debug\GenericClass.pdb
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\GenericClass\obj\Debug\GenericClass.csprojResolveAssemblyReference.cache
