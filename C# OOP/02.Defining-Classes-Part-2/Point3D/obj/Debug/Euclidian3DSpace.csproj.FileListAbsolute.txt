@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\Point3D\bin\Debug\Point3D.exe.config
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\Point3D\bin\Debug\Point3D.exe
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\Point3D\bin\Debug\Point3D.pdb
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\Point3D\obj\Debug\Euclidian3DSpace.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\Point3D\obj\Debug\Point3D.exe
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\Point3D\obj\Debug\Point3D.pdb

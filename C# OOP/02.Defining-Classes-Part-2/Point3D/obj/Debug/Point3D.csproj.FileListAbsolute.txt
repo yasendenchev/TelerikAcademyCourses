@@ -1,0 +1,1 @@
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\Point3D\bin\Debug\Point3D.exe.config
