@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\VersionAttribute\bin\Debug\VersionAttribute.exe.config
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\VersionAttribute\obj\Debug\VersionAttribute.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\VersionAttribute\bin\Debug\VersionAttribute.exe
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\VersionAttribute\bin\Debug\VersionAttribute.pdb
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\VersionAttribute\obj\Debug\VersionAttribute.exe
+D:\Dropbox\Telerik\C# OOP\02.Defining-Classes-Part-2\VersionAttribute\obj\Debug\VersionAttribute.pdb
