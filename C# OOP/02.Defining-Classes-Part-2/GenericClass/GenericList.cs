@@ -22,7 +22,11 @@ namespace GenericClass
         }
 
         // Properties
-        public int Count { get; private set; }
+        public int Count {
+            get;
+
+            private set;
+        }
         
         public int Capacity
         {

@@ -1,0 +1,3 @@
+D:\Dropbox\Telerik\C# OOP\03.Extension-Methods-Delegates-Lambda-LINQ\StringBuilder-Methods\bin\Debug\StringBuilder-Methods.exe.config
+D:\Dropbox\Telerik\C# OOP\03.Extension-Methods-Delegates-Lambda-LINQ\StringBuilder-Methods\obj\Debug\StringBuilder-Methods.exe
+D:\Dropbox\Telerik\C# OOP\03.Extension-Methods-Delegates-Lambda-LINQ\StringBuilder-Methods\obj\Debug\StringBuilder-Methods.pdb

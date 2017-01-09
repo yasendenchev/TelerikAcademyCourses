@@ -12,6 +12,9 @@ namespace GenericClass
         {
             GenericList<int> nums = new GenericList<int>(4);
 
+            int one = 1;
+            int One = 1;
+
             nums.Add(4);
             nums.Add(6);
             nums.Add(8);
