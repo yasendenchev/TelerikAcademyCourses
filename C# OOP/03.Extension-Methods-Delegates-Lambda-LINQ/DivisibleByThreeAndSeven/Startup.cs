@@ -35,7 +35,10 @@ namespace DivisibleByThreeAndSeven
                          where (n % 7 == 0 && n % 5 == 0)
                          select n;
 
-            Console.WriteLine(result.ToString());
+            foreach (var number in result)
+            {
+                Console.WriteLine(number);
+            }
         }
 
 

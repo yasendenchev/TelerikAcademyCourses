@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Timer
 {
-    class Program
+    
+
+    public class Timer
     {
-        static void Main(string[] args)
-        {
-        }
+      
     }
 }

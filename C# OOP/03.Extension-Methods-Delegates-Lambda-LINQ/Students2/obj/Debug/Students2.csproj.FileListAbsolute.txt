@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Students2\bin\Debug\Students2.exe.config
+D:\Dropbox\Telerik\C# OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Students2\bin\Debug\Students2.exe
+D:\Dropbox\Telerik\C# OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Students2\bin\Debug\Students2.pdb
+D:\Dropbox\Telerik\C# OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Students2\obj\Debug\Students2.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Students2\obj\Debug\Students2.exe
+D:\Dropbox\Telerik\C# OOP\03.Extension-Methods-Delegates-Lambda-LINQ\Students2\obj\Debug\Students2.pdb

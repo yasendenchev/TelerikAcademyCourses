@@ -1,3 +1,5 @@
 D:\Dropbox\Telerik\C# OOP\03.Extension-Methods-Delegates-Lambda-LINQ\02.IEnumerable-Extension\bin\Debug\02.IEnumerable-Extension.exe.config
 D:\Dropbox\Telerik\C# OOP\03.Extension-Methods-Delegates-Lambda-LINQ\02.IEnumerable-Extension\obj\Debug\02.IEnumerable-Extension.exe
 D:\Dropbox\Telerik\C# OOP\03.Extension-Methods-Delegates-Lambda-LINQ\02.IEnumerable-Extension\obj\Debug\02.IEnumerable-Extension.pdb
+D:\Dropbox\Telerik\C# OOP\03.Extension-Methods-Delegates-Lambda-LINQ\02.IEnumerable-Extension\bin\Debug\02.IEnumerable-Extension.exe
+D:\Dropbox\Telerik\C# OOP\03.Extension-Methods-Delegates-Lambda-LINQ\02.IEnumerable-Extension\bin\Debug\02.IEnumerable-Extension.pdb
