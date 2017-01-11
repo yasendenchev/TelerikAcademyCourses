@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# OOP\04.OOP-Principles-Part-1\04.OOP-Principles-Part-1\SchoolClasses\bin\Debug\SchoolClasses.exe.config
+D:\Dropbox\Telerik\C# OOP\04.OOP-Principles-Part-1\04.OOP-Principles-Part-1\SchoolClasses\bin\Debug\SchoolClasses.exe
+D:\Dropbox\Telerik\C# OOP\04.OOP-Principles-Part-1\04.OOP-Principles-Part-1\SchoolClasses\bin\Debug\SchoolClasses.pdb
+D:\Dropbox\Telerik\C# OOP\04.OOP-Principles-Part-1\04.OOP-Principles-Part-1\SchoolClasses\obj\Debug\SchoolClasses.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# OOP\04.OOP-Principles-Part-1\04.OOP-Principles-Part-1\SchoolClasses\obj\Debug\SchoolClasses.exe
+D:\Dropbox\Telerik\C# OOP\04.OOP-Principles-Part-1\04.OOP-Principles-Part-1\SchoolClasses\obj\Debug\SchoolClasses.pdb
