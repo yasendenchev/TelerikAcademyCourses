@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StudentsAndWorkers.Interfaces
 {
-    interface Worker
+    interface IWorker
     {
         int WeekSalary { get; set; }
         int WorkHoursPerDay { get; set; }

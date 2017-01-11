@@ -8,6 +8,6 @@ namespace AnimalHierarchy
 {
     interface ISound
     {
-        void MakeSound();
+        void MakeNoise();
     }
 }

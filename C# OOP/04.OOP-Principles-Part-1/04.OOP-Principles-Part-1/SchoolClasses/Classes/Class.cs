@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SchoolClasses.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SchoolClasses
 {
-    class Class 
+    class Class : IClass
     {
         private string id;
         private List<Student> students;
@@ -75,5 +76,11 @@ namespace SchoolClasses
             }
         }
         #endregion
+
+
+        public void AddComment(string comment)
+        {
+            this.Comments.Add(comment);
+        }
     }
 }

@@ -12,7 +12,7 @@ namespace AnimalHierarchy
         {
         }
 
-        public override void MakeSound()
+        public override void MakeNoise()
         {
             Console.WriteLine($"MIALO MIALO, my name is {this.Name}!");
         }

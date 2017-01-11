@@ -48,7 +48,9 @@ namespace AnimalHierarchy
 
 
         #endregion
-        public abstract void MakeSound();
+
+
+        public abstract void MakeNoise();
         
     }
 }

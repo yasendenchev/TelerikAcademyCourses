@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StudentsAndWorkers.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace StudentsAndWorkers
 {
-    class Worker : Human
+    class Worker : Human, IHuman, IWorker
     {
         private int weekSalary;
         private int workHoursPerDay;
@@ -46,9 +47,9 @@ namespace StudentsAndWorkers
         }
 
 
-        public double MoneyPerHour(int weekSalary, int workHoursPerDay)
+        public double MoneyPerHour()
         {
-            double result = weekSalary / (5 * workHoursPerDay);
+            double result = this.weekSalary / (5 * this.workHoursPerDay);
 
             return result;
         }

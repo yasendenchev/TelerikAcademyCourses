@@ -8,7 +8,7 @@ namespace StudentsAndWorkers.Interfaces
 {
     interface IHuman
     {
-         string fName { get; }
-         string lName { get; }
+         string FName { get; }
+         string LName { get; }
     }
 }

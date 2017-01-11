@@ -9,8 +9,8 @@ namespace StudentsAndWorkers
 {
     public abstract class Human : IHuman
     {
-        private readonly string fName;
-        private readonly string lName;
+        private  string fName;
+        private  string lName;
 
         public Human(string fName, string lName)
         {
@@ -18,7 +18,7 @@ namespace StudentsAndWorkers
             this.lName = lName;
         }
 
-        public string Fname
+        public string FName
         {
             get
             {
@@ -33,7 +33,5 @@ namespace StudentsAndWorkers
                 return this.LName;
             }
         }
-
-
     }
 }

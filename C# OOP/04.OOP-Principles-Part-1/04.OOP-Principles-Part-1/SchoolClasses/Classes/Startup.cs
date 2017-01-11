@@ -25,11 +25,11 @@ namespace SchoolClasses
             students.Add(new Student("Doncho", 6));
             students.Add(new Student("St3ven", 7));
 
-            //Teachers
-            var teachers = new List<Teacher>();
-            teachers.Add(new Teacher("Kuzmanova");
+            ////Teachers
+            //var teachers = new List<Teacher>();
+            //teachers.Add(new Teacher("Kuzmanova",);
             
-            var a = new Class("a",)
+            //var a = new Class("a",)
 
         }
     }

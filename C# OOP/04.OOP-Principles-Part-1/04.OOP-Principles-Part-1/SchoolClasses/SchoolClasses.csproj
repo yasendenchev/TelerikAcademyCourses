@@ -49,7 +49,7 @@
     <Compile Include="Classes\Person.cs" />
     <Compile Include="Classes\School.cs" />
     <Compile Include="Classes\Startup.cs" />
-    <Compile Include="Interfaces\Class.cs" />
+    <Compile Include="Interfaces\IClass.cs" />
     <Compile Include="Interfaces\IDiscipline.cs" />
     <Compile Include="Interfaces\ITeacher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

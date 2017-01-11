@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SchoolClasses.Classes
 {
-    class Comment
+    public class Comment
     {
         string myComment;
 
