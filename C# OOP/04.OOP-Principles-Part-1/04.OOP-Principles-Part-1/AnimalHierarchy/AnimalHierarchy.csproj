@@ -48,7 +48,7 @@
     <Compile Include="Classes\Dog.cs" />
     <Compile Include="Classes\Frog.cs" />
     <Compile Include="Classes\Gender.cs" />
-    <Compile Include="Interface\ISound.cs" />
+    <Compile Include="Contracts\ISound.cs" />
     <Compile Include="Classes\Kitten.cs" />
     <Compile Include="Classes\Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

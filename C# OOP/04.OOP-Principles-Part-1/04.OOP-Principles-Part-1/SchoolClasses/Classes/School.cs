@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace SchoolClasses.Classes
 {
-    class School
+    public class School
     {
         private List<Class> classes;
 
@@ -28,5 +24,9 @@ namespace SchoolClasses.Classes
             }
         }
 
+        public void AddClass(Class schoolClass)
+        {
+            this.classes.Add(schoolClass);
+        }
     }
 }

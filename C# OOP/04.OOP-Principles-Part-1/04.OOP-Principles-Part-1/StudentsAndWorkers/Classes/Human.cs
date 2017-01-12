@@ -1,16 +1,11 @@
-﻿using StudentsAndWorkers.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using StudentsAndWorkers.Contracts;
 
 namespace StudentsAndWorkers
 {
     public abstract class Human : IHuman
     {
-        private  string fName;
-        private  string lName;
+        private readonly string fName;
+        private readonly string lName;
 
         public Human(string fName, string lName)
         {
@@ -30,7 +25,7 @@ namespace StudentsAndWorkers
         {
             get
             {
-                return this.LName;
+                return this.lName;
             }
         }
     }

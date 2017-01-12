@@ -1,9 +1,7 @@
-﻿using StudentsAndWorkers.Interfaces;
+﻿using StudentsAndWorkers.Contracts;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace StudentsAndWorkers
 {
@@ -41,18 +39,34 @@ namespace StudentsAndWorkers
             var sortedStudentsGrade = students.OrderBy(x => x.Grade).ToList();
 
             var sortedWorkerMoney = workers.OrderBy(x => x.MoneyPerHour()).ToList();
+            
+            var sortedPeople = people.OrderBy(p => p.FName).ThenBy(p => p.LName);
+
+            Console.WriteLine("Students sorted by grade: \n");
 
             foreach (var student in sortedStudentsGrade)
             {
-                Console.WriteLine($"{student.FName} - {student.Grade}");
+                people.Add(student);
+                Console.WriteLine($"{student.FName} {student.LName} - {student.Grade}");
             }
 
-            Console.WriteLine();
+            Console.WriteLine("--------------------------------------");
+            Console.WriteLine("Workers sorted by money per hour: \n");
 
             foreach (var worker in sortedWorkerMoney)
             {
-                Console.WriteLine($"{worker.FName} - {worker.MoneyPerHour()}");
+                people.Add(worker);
+                Console.WriteLine($"{worker.FName} {worker.LName} - {worker.MoneyPerHour()}");
             }
+
+            Console.WriteLine("--------------------------------------------------------------------");
+            Console.WriteLine("All people sorted by their first and last name in alphabetical order: \n");
+
+            foreach (var person in sortedPeople)
+            {
+                Console.WriteLine($"{person.FName} {person.LName}");
+            }
+                               
             
         }
     }

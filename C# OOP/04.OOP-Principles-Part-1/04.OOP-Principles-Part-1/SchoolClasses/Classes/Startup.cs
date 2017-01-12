@@ -1,36 +1,71 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SchoolClasses
 {
-    class Program
+    class Startup
     {
         static void Main(string[] args)
         {
-            //Disciplines
-            var math = new Discipline("math", 15, 30);
-            var english = new Discipline("english", 40, 20);
-            var biology = new Discipline("biology", 10, 5);
-
-            //Students
-            var students = new List<Student>();
-            students.Add(new Student("Pesho", 1));
-            students.Add(new Student("Vanko1", 2));
-            students.Add(new Student("Peter Pan", 3));
-            students.Add(new Student("Izdislav", 4));
-            students.Add(new Student("GeorgiNikol", 5));
-            students.Add(new Student("Doncho", 6));
-            students.Add(new Student("St3ven", 7));
-
-            ////Teachers
-            //var teachers = new List<Teacher>();
-            //teachers.Add(new Teacher("Kuzmanova",);
             
-            //var a = new Class("a",)
+            var classA = new Class("Class A");
+            var classB = new Class("Class B");
 
+            
+            var math = new Discipline("Mathematics", 15, 30);
+            var management = new Discipline("Management", 30, 60);
+            var informatics = new Discipline("Informatics", 22, 16);
+
+            
+            var pesho = new Student("Pesho", 1);
+            var vanko = new Student("Vanko1", 2);
+            var peter = new Student("Peter Pan", 3);
+            var izdislav = new Student("Izdislav", 4);
+            var georgi = new Student("GeorgiNikol", 5);
+            var kalin = new Student("Kalin", 6);
+            var todor = new Student("Todor", 7);
+
+            
+            var kuzmanova = new Teacher("Kuzmanova");
+            var uzunov = new Teacher("Uzunov");
+            var evlogi = new Teacher("Evlogi");
+            
+
+            kuzmanova.AddDiscipline(management);
+            uzunov.AddDiscipline(math);
+            evlogi.AddDiscipline(informatics);
+
+            classA.AddTeacher(kuzmanova);
+            classA.AddTeacher(uzunov);
+
+            classA.AddStudent(pesho);
+            classA.AddStudent(vanko);
+            classA.AddStudent(todor);
+            classA.AddStudent(izdislav);
+            
+            
+
+            classB.AddTeacher(evlogi);
+            classB.AddTeacher(uzunov);
+
+            classB.AddStudent(peter);
+            classB.AddStudent(georgi);
+            classB.AddStudent(kalin);
+
+            //Students' comments
+            vanko.AddComment("This guy fights a lot.");
+            izdislav.AddComment("We need to find this guy.");
+            georgi.AddComment("This girl with a boy's name keeps asking who is gonna BARA THE DUPARA.");
+            pesho.AddComment("Just a regular guy. He gets mentioned a lot at Telerik and no one knows why.");
+
+            //Teachers' comments
+            uzunov.AddComment("This teacher likes getting up early in the morning and making his students get up even earlier to go to school.");
+            uzunov.AddComment("He is an amazing teacher!");
+
+            
+            Console.WriteLine($"In our school there are {Class.NumClasses}");
+            classA.PrintInfo();
+            classB.PrintInfo();
+            
         }
     }
 }

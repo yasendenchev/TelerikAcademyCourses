@@ -45,9 +45,9 @@
   <ItemGroup>
     <Compile Include="Classes\Human.cs" />
     <Compile Include="Classes\Startup.cs" />
-    <Compile Include="Interfaces\IHuman.cs" />
-    <Compile Include="Interfaces\IStudent.cs" />
-    <Compile Include="Interfaces\IWorker.cs" />
+    <Compile Include="Contracts\IHuman.cs" />
+    <Compile Include="Contracts\IStudent.cs" />
+    <Compile Include="Contracts\IWorker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Classes\Student.cs" />
     <Compile Include="Classes\Worker.cs" />

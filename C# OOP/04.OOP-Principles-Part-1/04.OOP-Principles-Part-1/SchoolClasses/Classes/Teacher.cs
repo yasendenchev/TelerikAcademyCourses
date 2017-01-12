@@ -1,22 +1,25 @@
-﻿using System;
+﻿using SchoolClasses.Contracts;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SchoolClasses
 {
-    class Teacher : Person
+    public class Teacher : Person, ITeacher
     {
 
         private List<Discipline> disciplines;
 
 
-        public Teacher(string name, List<Discipline> disciplines, List<string> comments = null) : base(name, comments)
+        public Teacher(string name) : base(name)
         {
-            this.disciplines = disciplines;
+            this.Disciplines = new List<Discipline>();
+        }
+
+        public Teacher(string name, List<Discipline> disciplines, List<string> comments) : base(name)
+        {
+            this.Disciplines = disciplines;
 
         }
+
 
         public List<Discipline> Disciplines
         {
@@ -31,9 +34,10 @@ namespace SchoolClasses
             }
         }
 
-        public void AddDiscipline(Discipline discipline)
+        public void AddDiscipline(Discipline newDiscipline)
         {
-            this.Disciplines.Add(discipline);
+
+            this.Disciplines.Add(newDiscipline);
         }
     }
 }

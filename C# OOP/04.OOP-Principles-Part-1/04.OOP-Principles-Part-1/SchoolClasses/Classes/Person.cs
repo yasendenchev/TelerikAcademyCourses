@@ -1,21 +1,18 @@
-﻿using System;
+﻿using SchoolClasses.Contracts;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SchoolClasses
 {
-    class Person
+    public class Person : IComment
     {
         private string name;
         private List<string> comments;
+        
 
-
-        public Person(string name, List<string> comments = null)
+        public Person(string name) : base()
         {
-            this.name = name;
-            this.comments = comments;
+            this.Name = name;
+            this.Comments = new List<string>();
         }
 
 
@@ -43,6 +40,10 @@ namespace SchoolClasses
                 this.comments = value;
             }
         }
-    
+
+        public void AddComment(string comment)
+        {
+            this.Comments.Add(comment);
+        }
     }
 }

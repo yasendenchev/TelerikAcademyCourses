@@ -1,18 +1,20 @@
-﻿using System;
+﻿using SchoolClasses.Contracts;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SchoolClasses
 {
-    class Student : Person
+    public class Student : Person, IStudent
     {
         private int classNum;
 
-        public Student(string name, int classNum, List<string> comments = null) : base(name, comments)
+        public Student(string name) : base(name)
         {
-            this.classNum = classNum;
+            this.ClassNum = classNum;
+        }
+
+        public Student(string name, int classNum, List<string> comments = null) : base(name)
+        {
+            this.ClassNum = classNum;
 
         }
 

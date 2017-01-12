@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AnimalHierarchy
 {
@@ -61,11 +59,7 @@ namespace AnimalHierarchy
             Console.WriteLine($"The average age of all kinds of cats is:\n{catsAverageAge}");
             Console.WriteLine();
             Console.WriteLine($"The average age of frogs is:\n{frogsAverageAge}");
-
-
-
-
-
+            
 
         }
     }

@@ -35,6 +35,8 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,20 +46,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\Class.cs" />
-    <Compile Include="Classes\Comment.cs" />
     <Compile Include="Classes\Discipline.cs" />
     <Compile Include="Classes\Person.cs" />
     <Compile Include="Classes\School.cs" />
     <Compile Include="Classes\Startup.cs" />
-    <Compile Include="Interfaces\IClass.cs" />
-    <Compile Include="Interfaces\IDiscipline.cs" />
-    <Compile Include="Interfaces\ITeacher.cs" />
+    <Compile Include="Contracts\IClass.cs" />
+    <Compile Include="Contracts\IComment.cs" />
+    <Compile Include="Contracts\IDiscipline.cs" />
+    <Compile Include="Contracts\Istudent.cs" />
+    <Compile Include="Contracts\ITeacher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Classes\Student.cs" />
     <Compile Include="Classes\Teacher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Diagram.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

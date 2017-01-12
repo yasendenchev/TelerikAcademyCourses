@@ -1,27 +1,33 @@
-﻿using System;
+﻿using SchoolClasses.Contracts;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SchoolClasses
 {
-    class Discipline
+    public class Discipline : IDiscipline
     {
-        private  string name;
+        private string name;
         private int lectures;
         private int excercises;
         private List<string> comments;
+        
 
-        public Discipline(string name, int lectures, int excercises, List<string> comments = null)
+        public Discipline(string name, int lectures, int excercises)
         {
-            this.name = name;
-            this.lectures = lectures;
-            this.excercises = excercises;
-            this.comments = comments;
+            this.Name = name;
+            this.Lectures = lectures;
+            this.Excercises = excercises;
+            this.Comments = new List<string>();
         }
 
-        #region Properties
+        public Discipline(string name, int lectures, int excercises, List<string> comments)
+        {
+            this.Name = name;
+            this.Lectures = lectures;
+            this.Excercises = excercises;
+            this.Comments = comments;
+        }
+        
+
         public string Name
         {
             get
@@ -73,8 +79,8 @@ namespace SchoolClasses
                 this.comments = value;
             }
         }
-        #endregion
 
+        
         public void AddComment(string comment)
         {
             this.Comments.Add(comment);
