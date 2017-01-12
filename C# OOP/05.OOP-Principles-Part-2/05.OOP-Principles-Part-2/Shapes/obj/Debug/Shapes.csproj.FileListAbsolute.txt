@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\Shapes\bin\Debug\Shapes.exe.config
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\Shapes\bin\Debug\Shapes.exe
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\Shapes\bin\Debug\Shapes.pdb
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\Shapes\obj\Debug\Shapes.exe
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\Shapes\obj\Debug\Shapes.pdb
