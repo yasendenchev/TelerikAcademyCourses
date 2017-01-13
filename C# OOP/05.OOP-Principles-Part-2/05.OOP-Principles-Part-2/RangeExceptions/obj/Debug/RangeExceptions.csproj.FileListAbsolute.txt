@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\RangeExceptions\bin\Debug\RangeExceptions.exe.config
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\RangeExceptions\bin\Debug\RangeExceptions.exe
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\RangeExceptions\bin\Debug\RangeExceptions.pdb
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\RangeExceptions\obj\Debug\RangeExceptions.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\RangeExceptions\obj\Debug\RangeExceptions.exe
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\RangeExceptions\obj\Debug\RangeExceptions.pdb
