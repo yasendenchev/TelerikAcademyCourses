@@ -1,2 +1,6 @@
 D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\BankAccounts\obj\Debug\BankAccounts.csprojResolveAssemblyReference.cache
 D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\BankAccounts\bin\Debug\BankAccounts.exe.config
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\BankAccounts\bin\Debug\BankAccounts.exe
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\BankAccounts\bin\Debug\BankAccounts.pdb
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\BankAccounts\obj\Debug\BankAccounts.exe
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\05.OOP-Principles-Part-2\BankAccounts\obj\Debug\BankAccounts.pdb

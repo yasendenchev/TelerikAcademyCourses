@@ -1,15 +1,11 @@
-﻿using BankAccounts.Utils;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using BankAccounts.Contracts;
+using BankAccounts.Utils;
 
 namespace BankAccounts.Customers
 {
-    public class Company : Customer
+    public class Company : Customer, ICustomer
     {
-        public Company(string name, CustomerType customerType) : base(name, CustomerType.Company)
+        public Company(string name) : base(name, CustomerType.Company)
         {
         }
     }

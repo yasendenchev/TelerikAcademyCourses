@@ -44,11 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Accounts\Account.cs" />
-    <Compile Include="Accounts\Deposit.cs" />
-    <Compile Include="Accounts\Loan.cs" />
-    <Compile Include="Accounts\Mortgage.cs" />
+    <Compile Include="Accounts\DepositAccount.cs" />
+    <Compile Include="Accounts\LoanAccount.cs" />
+    <Compile Include="Accounts\MortgageAccount.cs" />
     <Compile Include="Bank.cs" />
     <Compile Include="Contracts\IAccount.cs" />
+    <Compile Include="Contracts\IBank.cs" />
     <Compile Include="Contracts\ICustomer.cs" />
     <Compile Include="Contracts\IDeposit.cs" />
     <Compile Include="Contracts\IWithdraw.cs" />

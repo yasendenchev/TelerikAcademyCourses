@@ -1,14 +1,9 @@
-﻿using BankAccounts.Customers;
-using BankAccounts.Contracts;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using BankAccounts.Contracts;
+using BankAccounts.Customers;
 
 namespace BankAccounts.Accounts
 {
-    public abstract class Account : IAccount
+    public class Account : IAccount
     {
         private Customer customer;
         private decimal balance;
@@ -59,7 +54,9 @@ namespace BankAccounts.Accounts
 
         public virtual decimal InterestForPeriod(int months)
         {
-            this.InterestRate += months;
+            decimal result = 0;
+            result = this.InterestRate * months;
+            return result;
         }
     }
 }

@@ -1,20 +1,25 @@
 ﻿using BankAccounts.Accounts;
-using System;
+using BankAccounts.Contracts;
+using BankAccounts.Customers;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BankAccounts
 {
-    public class Bank
+    public class Bank : IBank
     {
         private List<Account> myAccounts;
 
-        public Bank (List<Account> myAccounts)
+
+        public Bank()
         {
-            this.myAccounts = myAccounts;
+
         }
+
+        public Bank(List<Account> myAccounts)
+        {
+            this.MyAccounts = myAccounts;
+        }
+
 
         public List<Account> MyAccounts
         {

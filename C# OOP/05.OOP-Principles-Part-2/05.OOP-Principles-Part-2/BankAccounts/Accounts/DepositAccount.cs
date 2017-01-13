@@ -1,16 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using BankAccounts.Contracts;
 using BankAccounts.Customers;
-using BankAccounts.Contracts;
 
 namespace BankAccounts.Accounts
 {
-    public class Deposit : Account, IAccount, IDeposit, IWithdraw
+    public class DepositAccount : Account, IAccount, IDeposit, IWithdraw
     {
-        public Deposit(Customer customer, decimal balance, decimal interestRate) : base(customer, balance, interestRate)
+        public DepositAccount(Customer customer, decimal balance, decimal interestRate) : base(customer, balance, interestRate)
         {
         }
 
