@@ -1,6 +1,6 @@
 function solve(args) {
     let len = +args[0];
-    let iNum, minNum, temp, indexMin;
+    let iNum, minNum, indexMin;
     for (let i = 1; i <= len; i++) {
         iNum = +args[i];
 
