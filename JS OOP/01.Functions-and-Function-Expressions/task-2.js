@@ -14,42 +14,23 @@ function solve() {
 
 		let arr = [];
 		for (let i = Number(start); i <= Number(end); i++) {
-			if (isPrime(i))
-
-				if (isPrime(i) === true) {
-					arr.push(Number(i));
-				}
-		}
-		return arr;
-	}
-
-	function isPrime(num) {
-		let start = 2;
-		if (num < 2) {
-			return false;
-		}
-		while (start <= Math.sqrt(num)) {
-			if (num % start++ < 1) {
-				return false
+			if (isPrime(i) === true) {
+				arr.push(Number(i));
 			}
+			return arr;
 		}
-		return true;
+
+		function isPrime(num) {
+			let start = 2;
+			if (num < 2) {
+				return false;
+			}
+			while (start <= Math.sqrt(num)) {
+				if (num % start++ < 1) {
+					return false
+				}
+			}
+			return true;
+		}
 	}
-}
-module.exports = solve;
-
-
-		// if (num < 2) {
-		// 	return false;
-		// }
-		// else if (n === 2) {
-		// 	return true;
-		// }
-		// for (var i = 2; i < num / 2; i++) {
-		// 	if (num % i === 0) {
-		// 		return false;
-		// 	}
-		// 	else if (i === num - 1) {
-		// 		return true;
-		// 	}
-		// }
+	module.exports = solve;
