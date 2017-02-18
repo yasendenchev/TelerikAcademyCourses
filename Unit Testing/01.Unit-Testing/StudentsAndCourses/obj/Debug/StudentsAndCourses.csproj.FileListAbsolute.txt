@@ -1,6 +1,0 @@
-D:\Dropbox\Telerik\Unit Testing\01.Unit-Testing\StudentsAndCourses\bin\Debug\StudentsAndCourses.exe.config
-D:\Dropbox\Telerik\Unit Testing\01.Unit-Testing\StudentsAndCourses\bin\Debug\StudentsAndCourses.exe
-D:\Dropbox\Telerik\Unit Testing\01.Unit-Testing\StudentsAndCourses\bin\Debug\StudentsAndCourses.pdb
-D:\Dropbox\Telerik\Unit Testing\01.Unit-Testing\StudentsAndCourses\obj\Debug\StudentsAndCourses.csprojResolveAssemblyReference.cache
-D:\Dropbox\Telerik\Unit Testing\01.Unit-Testing\StudentsAndCourses\obj\Debug\StudentsAndCourses.exe
-D:\Dropbox\Telerik\Unit Testing\01.Unit-Testing\StudentsAndCourses\obj\Debug\StudentsAndCourses.pdb

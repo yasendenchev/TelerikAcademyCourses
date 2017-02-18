@@ -1,0 +1,28 @@
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\bin\Debug\Academy.exe.config
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\bin\Debug\Academy.exe
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\bin\Debug\Academy.pdb
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\obj\Debug\Academy.exe
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Solution\Academy\obj\Debug\Academy.pdb
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\bin\Debug\Academy.exe.config
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\bin\Debug\Academy.exe
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\bin\Debug\Academy.pdb
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\obj\Debug\Academy.exe
+C:\Source\Academy\Courses\Unit-Testing\Topics\05. Workshop (Students)\Academy\Workshop\Academy\obj\Debug\Academy.pdb
+D:\Dropbox\Academy\Academy\bin\Debug\Academy.exe.config
+D:\Dropbox\Academy\Academy\obj\Debug\Academy.exe
+D:\Dropbox\Academy\Academy\obj\Debug\Academy.pdb
+D:\Dropbox\Academy\Academy\bin\Debug\Academy.exe
+D:\Dropbox\Academy\Academy\bin\Debug\Academy.pdb
+D:\Dropbox\Academy\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
+D:\Dropbox\Academy\Academy\bin\Debug\nunit.framework.dll
+D:\Dropbox\Academy\Academy\bin\Debug\nunit.framework.xml
+D:\Dropbox\Academy - Unit Testing WS\Academy\bin\Debug\Academy.exe.config
+D:\Dropbox\Academy - Unit Testing WS\Academy\obj\Debug\Academy.exe
+D:\Dropbox\Academy - Unit Testing WS\Academy\obj\Debug\Academy.pdb
+D:\Dropbox\Academy - Unit Testing WS\Academy\bin\Debug\Academy.exe
+D:\Dropbox\Academy - Unit Testing WS\Academy\bin\Debug\Academy.pdb
+D:\Dropbox\Academy - Unit Testing WS\Academy\bin\Debug\nunit.framework.dll
+D:\Dropbox\Academy - Unit Testing WS\Academy\bin\Debug\nunit.framework.xml
+D:\Dropbox\Academy - Unit Testing WS\Academy\obj\Debug\Academy.csprojResolveAssemblyReference.cache
