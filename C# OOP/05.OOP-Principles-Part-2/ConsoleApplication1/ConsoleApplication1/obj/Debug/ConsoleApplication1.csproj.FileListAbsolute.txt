@@ -1,0 +1,6 @@
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Dropbox\Telerik\C# OOP\05.OOP-Principles-Part-2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
