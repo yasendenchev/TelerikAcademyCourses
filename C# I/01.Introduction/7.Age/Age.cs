@@ -5,16 +5,14 @@ class Age
 {
     static void Main()
     {
-        string ivan = Console.ReadLine();
-
-        if (ivan == "ivan")
-        {
-            Console.WriteLine("ivan e pederast");
-        }
-        else
-        {
-            Console.WriteLine("nqkoi drug e pederast");
-        }
+        string input = Console.ReadLine();
+        string[] dateAsArray = input.Split('.');
+        DateTime myBirthDate = new DateTime(int.Parse(dateAsArray[2]), int.Parse(dateAsArray[0]), int.Parse(dateAsArray[1]));
+        DateTime today = DateTime.Now;
+        double  span = (today - myBirthDate).TotalDays;
+        double age = Math.Floor(span / 365.25);
+        Console.WriteLine(age);
+        Console.WriteLine(age + 10);
     }
 }
 
